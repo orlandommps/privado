@@ -361,3 +361,27 @@ http://tvservice.pro:80/102816434526/8318766626/107507
 http://tvservice.pro:80/102816434526/8318766626/107508
 #EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 6 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 6 HEVC
 http://tvservice.pro:80/102816434526/8318766626/107509
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Casa E pesca" tvg-logo="" group-title="PORTUGAL",PT: Casa E pesca
+http://pixelvod.net:8789/live/110029542058811/81013111/23503.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 1 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23538.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 2 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23540.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 3 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23535.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 4 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23533.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 5 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23530.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 6 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23532.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV  5 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV  5 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23522.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sport_tv_pt_1.png" group-title="PORTUGAL",PT: Sport TV 1 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23485.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sport_tv_pt_2.png" group-title="PORTUGAL",PT: Sport TV 2 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23487.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4 HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23524.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="PT: BTV  HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/btv_bg.png" group-title="PORTUGAL",PT: BTV  HD
+http://pixelvod.net:8789/live/110029542058811/81013111/23547.m3u8
