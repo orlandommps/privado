@@ -313,3 +313,53 @@ http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95421
 http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95422
 #EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 6 HD
 http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95423
+#EXTINF:-1 tvg-id="" tvg-name="PT - BTV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGALVIP/BTV.png" group-title="EU | PORTUGAL",PT - BTV HD
+http://tvservice.pro:80/102816434526/8318766626/68416
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 4K UHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 4K UHD
+http://tvservice.pro:80/102816434526/8318766626/68336
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 1 HD
+http://tvservice.pro:80/102816434526/8318766626/68419
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT - SPORT TV 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 2 HD
+http://tvservice.pro:80/102816434526/8318766626/68418
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT - SPORT TV 3 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 3 HD
+http://tvservice.pro:80/102816434526/8318766626/68417
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 1" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 1
+http://tvservice.pro:80/102816434526/8318766626/68424
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT - SPORT TV 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 2
+http://tvservice.pro:80/102816434526/8318766626/68423
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT - SPORT TV 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 3
+http://tvservice.pro:80/102816434526/8318766626/68422
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT - SPORT TV 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 4
+http://tvservice.pro:80/102816434526/8318766626/68421
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT - SPORT TV 5" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 5
+http://tvservice.pro:80/102816434526/8318766626/68420
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT - ELEVEN SPORTS 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 1 HD
+http://tvservice.pro:80/102816434526/8318766626/151547
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT - ELEVEN SPORTS 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 2 HD
+http://tvservice.pro:80/102816434526/8318766626/68307
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT - ELEVEN SPORTS 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 3
+http://tvservice.pro:80/102816434526/8318766626/68306
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT - ELEVEN SPORTS 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 4
+http://tvservice.pro:80/102816434526/8318766626/68305
+#EXTINF:-1 tvg-id="" tvg-name="PT - BTV 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/BTVHD.png" group-title="EU | PORTUGAL",PT - BTV 1 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107495
+#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 1 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107500
+#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 2 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 2 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107501
+#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 3 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 3 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107502
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 1 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107504
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 2 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 2 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107505
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS  3 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS  3 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107506
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 4 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 4 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107507
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 5 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 5 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107508
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 6 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 6 HEVC
+http://tvservice.pro:80/102816434526/8318766626/107509
+#EXTINF:-1 tvg-id="" tvg-name="PT - CASA E COZINHA HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/CASAEPESCA.png" group-title="EU | PORTUGAL",PT - CASA E COZINHA HEVC
+http://tvservice.pro:80/102816434526/8318766626/107493
