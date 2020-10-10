@@ -385,3 +385,15 @@ http://pixelvod.net:8789/live/110029542058811/81013111/23487.m3u8
 http://pixelvod.net:8789/live/110029542058811/81013111/23524.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: BTV  HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/btv_bg.png" group-title="PORTUGAL",PT: BTV  HD
 http://pixelvod.net:8789/live/110029542058811/81013111/23547.m3u8
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",Sport TV 1 PT
+http://vvn.neoredi.com/iptv/ch2123?code=113051113314531&key=25876
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",Sport TV 2 PT
+http://vvn.neoredi.com/iptv/ch2124?code=113051113314531&key=64995
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",Sport TV 3 PT
+http://vvn.neoredi.com/iptv/ch2125?code=113051113314531&key=46479
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",Sport TV 4 PT
+http://vvn.neoredi.com/iptv/ch2126?code=113051113314531&key=42655
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",Sport TV 5 PT
+http://vvn.neoredi.com/iptv/ch2127?code=113051113314531&key=45143
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2145.png",Cacapesca PT
+http://vvn.neoredi.com/iptv/ch2145?code=113051113314531&key=33609
