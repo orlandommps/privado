@@ -511,13 +511,61 @@ http://livegopanel.club:8080/Momcilo1/Momcilo1/6496
 http://livegopanel.club:8080/Momcilo1/Momcilo1/6497
 #EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV5" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV5
 http://livegopanel.club:8080/Momcilo1/Momcilo1/6498
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 1 FHD
-http://livegopanel.club:8080/Momcilo1/Momcilo1/16056
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 2 FHD
-http://livegopanel.club:8080/Momcilo1/Momcilo1/16055
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 3 FHD
-http://livegopanel.club:8080/Momcilo1/Momcilo1/16054
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 4 FHD
-http://livegopanel.club:8080/Momcilo1/Momcilo1/16053
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 5 FHD
-http://livegopanel.club:8080/Momcilo1/Momcilo1/16052
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv1.png" group-title="PORTUGUESE",SPORT TV 1 HD (PT)
+http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4643
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORT TV 2 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv2.png" group-title="PORTUGUESE",SPORT TV 2 HD (PT)
+http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4647
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORT TV 3 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv3.png" group-title="PORTUGUESE",SPORT TV 3 HD (PT)
+http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4646
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORT TV 4 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv4.png" group-title="PORTUGUESE",SPORT TV 4 HD (PT)
+http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4645
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="SPORT TV 5 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv5.png" group-title="PORTUGUESE",SPORT TV 5 HD (PT)
+http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4644
+#EXTINF:-1,BTV 1 FHD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/12521
+#EXTINF:-1,BTV 1 FHD [B] PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/7534
+#EXTINF:-1,BTV 1 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/12520
+#EXTINF:-1,Eleven Sport 1 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/51927
+#EXTINF:-1,Eleven Sport 2 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/51926
+#EXTINF:-1,Eleven Sport 3 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/51925
+#EXTINF:-1,Eleven Sport 4 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/51924
+#EXTINF:-1,Eleven Sport 5 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/51923
+#EXTINF:-1,Eleven Sport 6 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/51922
+#EXTINF:-1,Sport TV 1 FHD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/8818
+#EXTINF:-1,Sport TV 1 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/13096
+#EXTINF:-1,Sport TV 1 PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/13097
+#EXTINF:-1,Sport TV 2 FHD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/7481
+#EXTINF:-1,Sport TV 2 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/8814
+#EXTINF:-1,Sport TV 2 PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/13093
+#EXTINF:-1,Sport TV 3 FHD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/8817
+#EXTINF:-1,Sport TV 3 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/8813
+#EXTINF:-1,Sport TV 3 PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/13091
+#EXTINF:-1,Sport TV 4 FHD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/8816
+#EXTINF:-1,Sport TV 4 PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/13089
+#EXTINF:-1,Sport TV 4 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/7479
+#EXTINF:-1,Sport TV 5 FHD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/7478
+#EXTINF:-1,Sport TV 5 HD PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/8812
+#EXTINF:-1,Sport TV 5 PT
+http://mytv.fun:8080/charmainefarrugia/8vlxomht38/13087
