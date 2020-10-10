@@ -49,12 +49,6 @@ http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110278
 http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110282
 #EXTINF:-1 tvg-ID="" tvg-name="Portugal- SPORT TV 1 HD (720P)" tvg-logo="" group-title="PORTGUESE",Portugal- SPORT TV 1 HD (720P)
 http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110324
-#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 2 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 2 FHD
-http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110326
-#EXTINF:-1 tvg-ID="" tvg-name="Portugal- Sport TV 5" tvg-logo="" group-title="PORTGUESE",Portugal- Sport TV 5
-http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110331
-#EXTINF:-1 tvg-ID="" tvg-name="Portugal- BENFICA TV 1 FHD" tvg-logo="" group-title="PORTGUESE",Portugal- BENFICA TV 1 FHD
-http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110244
 #EXTINF:-1 tvg-id="" tvg-name="BTV 1 FHD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal",BTV 1 FHD PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/12521
 #EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV 1 FHD [B] PT" tvg-logo="http://pici.life/benficatv1_2.png" group-title="Portugal",BTV 1 FHD [B] PT
@@ -73,10 +67,6 @@ http://mypanel.tv:8080/carter123424/SsFNP3g6VF/51924
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/51923
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Eleven Sport 6 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 6 HD PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/51922
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="Sport TV + FHD PT" tvg-logo="http://pici.life/sporttvpluspt.png" group-title="Portugal",Sport TV + FHD PT
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7477
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Sporting TV FHD PT" tvg-logo="http://pici.life/sportingtvpt.png" group-title="Portugal",Sporting TV FHD PT
-http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7476
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 FHD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal",Sport TV 1 FHD PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8818
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal",Sport TV 1 HD PT
@@ -109,178 +99,8 @@ http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8812
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13087
 #EXTINF:-1 tvg-id="Caca e Pesca PT" tvg-name="Caza Y Pezca PT" tvg-logo="http://pici.life/pta/cacaepesca.png" group-title="Portugal",Caza Y Pezca PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8791
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BTV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: BTV 1 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95396
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95408
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD NOS" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD NOS
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95409
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95410
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95411
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95412
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95413
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95414
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 4
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95415
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 5
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95416
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 1 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95418
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 2 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95419
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 3 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95420
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 4 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95421
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 5 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95422
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 6 HD
-http://sansatplus.net:25461/znsmMcVVCaPZRjw/sdkZLkNkjbMmSuZ/95423
-#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="PT017:Casa E Pesca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT017CasaEPesca.png" group-title="PT General",PT017:Casa E Pesca
-http://c2.coolmyvip.club:8880/tvtest109/JH87JH3G2/3233
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PT011:Benfica TV 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1.png" group-title="PT Sports",PT011:Benfica TV 1 FHD
-http://c2.coolmyvip.club:8880/tvtest109/JH87JH3G2/3239
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PT012:Benfica TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT012BenficaTV2.png" group-title="PT Sports",PT012:Benfica TV 1 HD
-http://c2.coolmyvip.club:8880/tvtest109/JH87JH3G2/3238
-#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT013:Benfica TV 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT013BenficaTV.png" group-title="PT Sports",PT013:Benfica TV 1 SD
-http://c2.coolmyvip.club:8880/tvtest109/JH87JH3G2/3237
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BTV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: BTV 1 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95396
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95408
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD NOS" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD NOS
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95409
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95410
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95411
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95412
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95413
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95414
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 4
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95415
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 5
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95416
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 1 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95418
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 2 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95419
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 3 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95420
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 4 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95421
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 5 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95422
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 6 HD
-http://sansatplus.net:25461/6NU8cSXOnjMoXG6/hjyglet6j4EgTDm/95423
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BTV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: BTV 1 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95396
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95408
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD NOS" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD NOS
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95409
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95410
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95411
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95412
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95413
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95414
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 4
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95415
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 5
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95416
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 1 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95418
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 2 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95419
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 3 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95420
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 4 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95421
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 5 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95422
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 6 HD
-http://sansatplus.net:25461/SIcf4vflQoZiVMC/2uCnG7SdezyKvBb/95423
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BTV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: BTV 1 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95396
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95408
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD NOS" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD NOS
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95409
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95410
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95411
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95412
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95413
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95414
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 4
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95415
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 5
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95416
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 1 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95418
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 2 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95419
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 3 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95420
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 4 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95421
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 5 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95422
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 6 HD
-http://sansatplus.net:25461/azetk1dUNFewfmg/QnIwehZvSUqDypl/95423
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BTV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: BTV 1 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95396
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95408
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD NOS" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD NOS
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95409
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95410
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95411
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 2
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95412
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95413
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 3
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95414
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 4
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95415
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 5
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95416
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 1 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95418
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 2 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95419
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 3 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95420
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 4 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95421
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 5 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95422
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="EU PORTUGAL",PT: ELEVEN SPORTS 6 HD
-http://sansatplus.net:25461/kHY1hBCLCV0oaSy/6Gh8uqvUSK2xVQA/95423
 #EXTINF:-1 tvg-id="" tvg-name="PT - BTV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGALVIP/BTV.png" group-title="EU | PORTUGAL",PT - BTV HD
 http://tvservice.pro:80/102816434526/8318766626/68416
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 4K UHD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 4K UHD
-http://tvservice.pro:80/102816434526/8318766626/68336
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 1 HD
 http://tvservice.pro:80/102816434526/8318766626/68419
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT - SPORT TV 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 2 HD
@@ -349,18 +169,6 @@ http://pixelvod.net:8789/live/110029542058811/81013111/23487.m3u8
 http://pixelvod.net:8789/live/110029542058811/81013111/23524.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: BTV  HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/btv_bg.png" group-title="PORTUGAL",PT: BTV  HD
 http://pixelvod.net:8789/live/110029542058811/81013111/23547.m3u8
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",Sport TV 1 PT
-http://vvn.neoredi.com/iptv/ch2123?code=113051113314531&key=25876
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",Sport TV 2 PT
-http://vvn.neoredi.com/iptv/ch2124?code=113051113314531&key=64995
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",Sport TV 3 PT
-http://vvn.neoredi.com/iptv/ch2125?code=113051113314531&key=46479
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",Sport TV 4 PT
-http://vvn.neoredi.com/iptv/ch2126?code=113051113314531&key=42655
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",Sport TV 5 PT
-http://vvn.neoredi.com/iptv/ch2127?code=113051113314531&key=45143
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2145.png",Cacapesca PT
-http://vvn.neoredi.com/iptv/ch2145?code=113051113314531&key=33609
 #EXTINF:-1,BTV 1 FHD PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/12521
 #EXTINF:-1,BTV 1 FHD [B] PT
@@ -411,80 +219,6 @@ http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8812
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13087
 #EXTINF:-1,Caza Y Pezca PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8791
-#EXTINF:-1 tvg-id="" tvg-name="BTV 1 FHD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal",BTV 1 FHD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/12521
-#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV 1 FHD [B] PT" tvg-logo="http://pici.life/benficatv1_2.png" group-title="Portugal",BTV 1 FHD [B] PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/7534
-#EXTINF:-1 tvg-id="" tvg-name="BTV 1 HD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal",BTV 1 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/12520
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sport 1 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 1 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/51927
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sport 2 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 2 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/51926
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sport 3 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 3 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/51925
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="Eleven Sport 4 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 4 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/51924
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="Eleven Sport 5 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 5 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/51923
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Eleven Sport 6 HD PT" tvg-logo="" group-title="Portugal",Eleven Sport 6 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/51922
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 FHD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal",Sport TV 1 FHD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/8818
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD PT" tvg-logo="http://pici.life/pta/sporttv1pthd.png" group-title="Portugal",Sport TV 1 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/13096
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 PT" tvg-logo="http://pici.life/pta/sporttv1pt.png" group-title="Portugal",Sport TV 1 PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/13097
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 FHD PT" tvg-logo="http://pici.life/sporttv2pthd.png" group-title="Portugal",Sport TV 2 FHD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/7481
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD PT" tvg-logo="http://pici.life/pta/sporttv2pthd.png" group-title="Portugal",Sport TV 2 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/8814
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 PT" tvg-logo="http://pici.life/pta/sporttv2pt.png" group-title="Portugal",Sport TV 2 PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/13093
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 FHD PT" tvg-logo="http://pici.life/pta/sporttv3hdpt.png" group-title="Portugal",Sport TV 3 FHD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/8817
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 HD PT" tvg-logo="http://pici.life/pta/sporttv3hdpt.png" group-title="Portugal",Sport TV 3 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/8813
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 PT" tvg-logo="http://pici.life/pta/sporttv3pt.png" group-title="Portugal",Sport TV 3 PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/13091
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 FHD PT" tvg-logo="http://pici.life/pta/sporttv4hdpt.png" group-title="Portugal",Sport TV 4 FHD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/8816
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 PT" tvg-logo="http://pici.life/pta/sporttv4pt.png" group-title="Portugal",Sport TV 4 PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/13089
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD PT" tvg-logo="http://pici.life/sporttv4hdpt.png" group-title="Portugal",Sport TV 4 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/7479
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 FHD PT" tvg-logo="http://pici.life/sporttv5hdpt.png" group-title="Portugal",Sport TV 5 FHD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/7478
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD PT" tvg-logo="http://pici.life/pta/sporttv5hdpt.png" group-title="Portugal",Sport TV 5 HD PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/8812
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 PT" tvg-logo="http://pici.life/pta/sporttv5pt.png" group-title="Portugal",Sport TV 5 PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/13087
-#EXTINF:-1 tvg-id="Caca e Pesca PT" tvg-name="Caza Y Pezca PT" tvg-logo="http://pici.life/pta/cacaepesca.png" group-title="Portugal",Caza Y Pezca PT
-http://mypanel.tv:8080/ycfu5moqu5/yhhdikjsjk/8791
-#EXTINF:-1 tvg-ID="benficatv1.pt" tvg-name="PT: BTV FHD" tvg-logo="[" group-title="Live: Portugal",PT: BTV FHD
-http://livegopanel.club:8080/Momcilo1/Momcilo1/9642
-#EXTINF:-1 tvg-ID="benficatv1.pt" tvg-name="PT: Benfica TV HD" tvg-logo="[" group-title="Live: Portugal",PT: Benfica TV HD
-http://livegopanel.club:8080/Momcilo1/Momcilo1/3645
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV1" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV1
-http://livegopanel.club:8080/Momcilo1/Momcilo1/6494
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV2" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV2
-http://livegopanel.club:8080/Momcilo1/Momcilo1/6495
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV3" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV3
-http://livegopanel.club:8080/Momcilo1/Momcilo1/6496
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV4" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV4
-http://livegopanel.club:8080/Momcilo1/Momcilo1/6497
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV5" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV5
-http://livegopanel.club:8080/Momcilo1/Momcilo1/6498
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv1.png" group-title="PORTUGUESE",SPORT TV 1 HD (PT)
-http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4643
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORT TV 2 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv2.png" group-title="PORTUGUESE",SPORT TV 2 HD (PT)
-http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4647
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORT TV 3 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv3.png" group-title="PORTUGUESE",SPORT TV 3 HD (PT)
-http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4646
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORT TV 4 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv4.png" group-title="PORTUGUESE",SPORT TV 4 HD (PT)
-http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4645
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="SPORT TV 5 HD (PT)" tvg-logo="https://s3.amazonaws.com/ok2logo/sporttv5.png" group-title="PORTUGUESE",SPORT TV 5 HD (PT)
-http://ok2.se:8000/s8nt6G3pOq/v7za2MjIVg/4644
 #EXTINF:-1,BTV 1 FHD PT
 http://mytv.fun:8080/charmainefarrugia/8vlxomht38/12521
 #EXTINF:-1,BTV 1 FHD [B] PT
@@ -571,14 +305,10 @@ http://mu01.okcomputer.club:8880/testz0110/6487185683/29387
 http://mu01.okcomputer.club:8880/testz0110/6487185683/29386
 #EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="PT105:SPORT TV 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT105SPORTTV4SD.png" group-title="PT Sports",PT105:SPORT TV 4 SD
 http://mu01.okcomputer.club:8880/testz0110/6487185683/29385
-#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="PT119:ELEVEN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png" group-title="PT Sports",PT119:ELEVEN SPORTS 1 FHD
-http://mu01.okcomputer.club:8880/testz0110/6487185683/29371
 #EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT120:ELEVEN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png" group-title="PT Sports",PT120:ELEVEN SPORTS 2 FHD
 http://mu01.okcomputer.club:8880/testz0110/6487185683/29370
 #EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="PT121:ELEVEN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png" group-title="PT Sports",PT121:ELEVEN SPORTS 3 FHD
 http://mu01.okcomputer.club:8880/testz0110/6487185683/29369
-#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="PT122:ELEVEN SPORTS 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png" group-title="PT Sports",PT122:ELEVEN SPORTS 4 FHD
-http://mu01.okcomputer.club:8880/testz0110/6487185683/29368
 #EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="PT156:Eleven Sports 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT156:Eleven Sports 5
 http://mu01.okcomputer.club:8880/testz0110/6487185683/29334
 #EXTINF:-1,SPORT TV 1 HD
@@ -615,8 +345,6 @@ http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122408
 http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133200
 #EXTINF:-1,ELEVEN SPORTS 2 HEVC
 http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133201
-#EXTINF:-1,SPORT TV   HEVC
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133193
 #EXTINF:-1,SPORT TV 1 HEVC
 http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133194
 #EXTINF:-1,SPORT TV 2 HEVC
@@ -787,45 +515,3 @@ http://mytv.fun:8080/2vvib6l2us/oraaxymgzo/13087
 http://mytv.fun:8080/2vvib6l2us/oraaxymgzo/8791
 #EXTINF:-1,Cacavision PT
 http://mytv.fun:8080/2vvib6l2us/oraaxymgzo/7531
-#EXTINF:-1,PT: Sport TV 1 FHD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/7797
-#EXTINF:-1,PT: Sport TV 1 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/3013
-#EXTINF:-1,PT: Sport TV 2 FHD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/7798
-#EXTINF:-1,PT: Sport TV 2 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/3014
-#EXTINF:-1,PT: Sport TV 3 FHD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/7799
-#EXTINF:-1,PT: Sport TV 3 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/3015
-#EXTINF:-1,PT: Sport TV 4 FHD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/7800
-#EXTINF:-1,PT: Sport TV 4 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/3017
-#EXTINF:-1,PT: Sport TV 5 FHD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/7801
-#EXTINF:-1,PT: Sport TV 5 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/3669
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/94661
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/94660
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/94659
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/94658
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/94657
-#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/94656
-#EXTINF:-1,PT: Benfica TV1 HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/4449
-#EXTINF:-1,PT: Benfica TV 1
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/164983
-#EXTINF:-1,PT: Cacavision HD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/6284
-#EXTINF:-1,PT: Caça e Pesca FHD
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/164999
-#EXTINF:-1,PT: Caza E Pesca
-http://ipro.tv:80/n51i3orj2eKB/T39vXAuq1Y/6286
