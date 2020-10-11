@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,Lista 1
 #EXTINF:-1,Benfica TV 1 
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/12521
 #EXTINF:-1,Benfica TV 1 
@@ -33,6 +34,7 @@ http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7479
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/7478
 #EXTINF:-1,Sport TV 5 
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8812
+#EXTINF:-1,Lista 2
 #EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 1 FHD 1080" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 1 FHD 1080
 http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110262
 #EXTINF:-1 tvg-ID="" tvg-name="Portugal- Eleven Sports 2 HD 720" tvg-logo="" group-title="PORTGUESE",Portugal- Eleven Sports 2 HD 720
@@ -49,6 +51,7 @@ http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110278
 http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110282
 #EXTINF:-1 tvg-ID="" tvg-name="Portugal- SPORT TV 1 HD (720P)" tvg-logo="" group-title="PORTGUESE",Portugal- SPORT TV 1 HD (720P)
 http://psdns.xyz:826/mlewis012375@gmail.com/nutpqtJW7y/110324
+#EXTINF:-1,Lista 3
 #EXTINF:-1 tvg-id="" tvg-name="BTV 1 FHD PT" tvg-logo="http://pici.life/pta/btv1hd.png" group-title="Portugal",BTV 1 FHD PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/12521
 #EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="BTV 1 FHD [B] PT" tvg-logo="http://pici.life/benficatv1_2.png" group-title="Portugal",BTV 1 FHD [B] PT
@@ -99,76 +102,6 @@ http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8812
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/13087
 #EXTINF:-1 tvg-id="Caca e Pesca PT" tvg-name="Caza Y Pezca PT" tvg-logo="http://pici.life/pta/cacaepesca.png" group-title="Portugal",Caza Y Pezca PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/8791
-#EXTINF:-1 tvg-id="" tvg-name="PT - BTV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGALVIP/BTV.png" group-title="EU | PORTUGAL",PT - BTV HD
-http://tvservice.pro:80/102816434526/8318766626/68416
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 1 HD
-http://tvservice.pro:80/102816434526/8318766626/68419
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT - SPORT TV 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 2 HD
-http://tvservice.pro:80/102816434526/8318766626/68418
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT - SPORT TV 3 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 3 HD
-http://tvservice.pro:80/102816434526/8318766626/68417
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 1" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 1
-http://tvservice.pro:80/102816434526/8318766626/68424
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT - SPORT TV 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 2
-http://tvservice.pro:80/102816434526/8318766626/68423
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT - SPORT TV 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 3
-http://tvservice.pro:80/102816434526/8318766626/68422
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT - SPORT TV 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 4
-http://tvservice.pro:80/102816434526/8318766626/68421
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT - SPORT TV 5" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 5
-http://tvservice.pro:80/102816434526/8318766626/68420
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT - ELEVEN SPORTS 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 1 HD
-http://tvservice.pro:80/102816434526/8318766626/151547
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT - ELEVEN SPORTS 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 2 HD
-http://tvservice.pro:80/102816434526/8318766626/68307
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT - ELEVEN SPORTS 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 3
-http://tvservice.pro:80/102816434526/8318766626/68306
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT - ELEVEN SPORTS 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 4
-http://tvservice.pro:80/102816434526/8318766626/68305
-#EXTINF:-1 tvg-id="" tvg-name="PT - BTV 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/BTVHD.png" group-title="EU | PORTUGAL",PT - BTV 1 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107495
-#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 1 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107500
-#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 2 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 2 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107501
-#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 3 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 3 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107502
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 1 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107504
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 2 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 2 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107505
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS  3 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS  3 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107506
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 4 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 4 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107507
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 5 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 5 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107508
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 6 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 6 HEVC
-http://tvservice.pro:80/102816434526/8318766626/107509
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Casa E pesca" tvg-logo="" group-title="PORTUGAL",PT: Casa E pesca
-http://pixelvod.net:8789/live/110029542058811/81013111/23503.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 1 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23538.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 2 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23540.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 3 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23535.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 4 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23533.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 5 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23530.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="" group-title="PORTUGAL",PT: Eleven Sports 6 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23532.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV  5 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV  5 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23522.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sport_tv_pt_1.png" group-title="PORTUGAL",PT: Sport TV 1 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23485.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sport_tv_pt_2.png" group-title="PORTUGAL",PT: Sport TV 2 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23487.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4 HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23524.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BTV  HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/btv_bg.png" group-title="PORTUGAL",PT: BTV  HD
-http://pixelvod.net:8789/live/110029542058811/81013111/23547.m3u8
 #EXTINF:-1,BTV 1 FHD PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/12521
 #EXTINF:-1,BTV 1 FHD [B] PT
@@ -311,92 +244,6 @@ http://mu01.okcomputer.club:8880/testz0110/6487185683/29370
 http://mu01.okcomputer.club:8880/testz0110/6487185683/29369
 #EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="PT156:Eleven Sports 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png" group-title="PT Sports",PT156:Eleven Sports 5
 http://mu01.okcomputer.club:8880/testz0110/6487185683/29334
-#EXTINF:-1,SPORT TV 1 HD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122394
-#EXTINF:-1,SPORT TV 1 FHD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122395
-#EXTINF:-1,SPORT TV 2 HD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122396
-#EXTINF:-1,SPORT TV 2 FHD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122397
-#EXTINF:-1,SPORT TV 3 HD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122398
-#EXTINF:-1,SPORT TV 3 FHD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122399
-#EXTINF:-1,SPORT TV 4 HD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122400
-#EXTINF:-1,SPORT TV 4 FHD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122401
-#EXTINF:-1,SPORT TV 5 HD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122402
-#EXTINF:-1,SPORT TV 5 FHD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122403
-#EXTINF:-1,Eleven Sports 2 FHD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122411
-#EXTINF:-1,Eleven Sports 3 HD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122407
-#EXTINF:-1,Eleven Sports 4 HD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122410
-#EXTINF:-1,Eleven Sports 5 HD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122409
-#EXTINF:-1,Eleven Sports 6 HD
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/122408
-#EXTINF:-1,ELEVEN SPORTS 1 HEVC
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133200
-#EXTINF:-1,ELEVEN SPORTS 2 HEVC
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133201
-#EXTINF:-1,SPORT TV 1 HEVC
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133194
-#EXTINF:-1,SPORT TV 2 HEVC
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133195
-#EXTINF:-1,SPORT TV 3 HEVC
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133196
-#EXTINF:-1,Sport TV 4 HEVC
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133197
-#EXTINF:-1,Sport Tv 5 HEVC
-http://nettv-xcruiser.com:8000/MCHT19/yxlzhdinl3/133198
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 1 HD
-http://bestott.net:80/079579889260/0021135014/68419
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT - SPORT TV 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 2 HD
-http://bestott.net:80/079579889260/0021135014/68418
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT - SPORT TV 3 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 3 HD
-http://bestott.net:80/079579889260/0021135014/68417
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 1" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 1
-http://bestott.net:80/079579889260/0021135014/68424
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT - SPORT TV 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 2
-http://bestott.net:80/079579889260/0021135014/68423
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT - SPORT TV 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 3
-http://bestott.net:80/079579889260/0021135014/68422
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT - SPORT TV 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 4
-http://bestott.net:80/079579889260/0021135014/68421
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT - SPORT TV 5" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 5
-http://bestott.net:80/079579889260/0021135014/68420
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT - ELEVEN SPORTS 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 1 HD
-http://bestott.net:80/079579889260/0021135014/151547
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT - ELEVEN SPORTS 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 2 HD
-http://bestott.net:80/079579889260/0021135014/68307
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT - ELEVEN SPORTS 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 3
-http://bestott.net:80/079579889260/0021135014/68306
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT - ELEVEN SPORTS 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 4
-http://bestott.net:80/079579889260/0021135014/68305
-#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 1 HEVC
-http://bestott.net:80/079579889260/0021135014/107500
-#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 2 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 2 HEVC
-http://bestott.net:80/079579889260/0021135014/107501
-#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 3 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 3 HEVC
-http://bestott.net:80/079579889260/0021135014/107502
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 1 HEVC
-http://bestott.net:80/079579889260/0021135014/107504
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 2 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 2 HEVC
-http://bestott.net:80/079579889260/0021135014/107505
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS  3 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS  3 HEVC
-http://bestott.net:80/079579889260/0021135014/107506
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 4 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 4 HEVC
-http://bestott.net:80/079579889260/0021135014/107507
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 5 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 5 HEVC
-http://bestott.net:80/079579889260/0021135014/107508
-#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 6 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 6 HEVC
-http://bestott.net:80/079579889260/0021135014/107509
 #EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",Sport TV 1 PT
 http://vvn.neoredi.com/iptv/ch2123?code=356051366975849&key=10148
 #EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",Sport TV 2 PT
@@ -407,14 +254,6 @@ http://vvn.neoredi.com/iptv/ch2125?code=356051366975849&key=14143
 http://vvn.neoredi.com/iptv/ch2126?code=356051366975849&key=23097
 #EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",Sport TV 5 PT
 http://vvn.neoredi.com/iptv/ch2127?code=356051366975849&key=40040
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV  5 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV  5 HD
-http://pixelvod.net:8789/110029542058811/81013111/23522
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sport_tv_pt_1.png" group-title="PORTUGAL",PT: Sport TV 1 HD
-http://pixelvod.net:8789/110029542058811/81013111/23485
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://pro.waldi2017.com/logo/Alphabetic/sport_tv_pt_2.png" group-title="PORTUGAL",PT: Sport TV 2 HD
-http://pixelvod.net:8789/110029542058811/81013111/23487
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="PORTUGAL",PT: SPORT TV 4 HD
-http://pixelvod.net:8789/110029542058811/81013111/23524
 #EXTINF:-1,BTV 1 FHD PT
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/12521
 #EXTINF:-1,BTV 1 FHD [B] PT
@@ -515,20 +354,6 @@ http://mytv.fun:8080/2vvib6l2us/oraaxymgzo/13087
 http://mytv.fun:8080/2vvib6l2us/oraaxymgzo/8791
 #EXTINF:-1,Cacavision PT
 http://mytv.fun:8080/2vvib6l2us/oraaxymgzo/7531
-#EXTINF:-1,PT: SPORT TV 5HD
-http://iptvfree1.com:7899/WhoschZtZl/xMbpAa4llO/2496
-#EXTINF:-1,PT: SPORT TV 5
-http://iptvfree1.com:7899/WhoschZtZl/xMbpAa4llO/3997
-#EXTINF:-1,PT: SPORT TV 4HD
-http://iptvfree1.com:7899/WhoschZtZl/xMbpAa4llO/2495
-#EXTINF:-1,PT: SPORT TV 4
-http://iptvfree1.com:7899/WhoschZtZl/xMbpAa4llO/3995
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://iptvfree1.com:7899/WhoschZtZl/xMbpAa4llO/3994
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://iptvfree1.com:7899/WhoschZtZl/xMbpAa4llO/3993
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://iptvfree1.com:7899/WhoschZtZl/xMbpAa4llO/3992
 #EXTINF:-1,PT: Sport TV 1 backup
 http://iptvfree1.com:7899/ZoDVa8qUOi/i09HEjqQda/16741
 #EXTINF:-1,PT: Sport TV 1 HD backup
@@ -669,3 +494,55 @@ http://sansat.plus:25461/VZb51bM/MrwtdhjUlbq02FL/95421
 http://sansat.plus:25461/VZb51bM/MrwtdhjUlbq02FL/95422
 #EXTINF:-1,PT: ELEVEN SPORTS 6 HD
 http://sansat.plus:25461/VZb51bM/MrwtdhjUlbq02FL/95423
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: Eleven Sports 1 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55230
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: Eleven Sports 2 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55231
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: Eleven Sports 3 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55232
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: Eleven Sports 4 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55233
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: Eleven Sports 5 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55234
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: Eleven Sports 6 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55235
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 1 HD" tvg-logo="" group-title="PT | PORTEKİZ",PT: Eleven Sport 1 HD
+http://dinamikiptv.com:7777/adalet/adalet123/55236
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 2 HD" tvg-logo="" group-title="PT | PORTEKİZ",PT: Eleven Sport 2 HD
+http://dinamikiptv.com:7777/adalet/adalet123/55237
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 3 HD" tvg-logo="" group-title="PT | PORTEKİZ",PT: Eleven Sport 3 HD
+http://dinamikiptv.com:7777/adalet/adalet123/55238
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 1 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55242
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 1 HD
+http://dinamikiptv.com:7777/adalet/adalet123/55243
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 SD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 1 SD
+http://dinamikiptv.com:7777/adalet/adalet123/55244
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 2 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55245
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 2 HD
+http://dinamikiptv.com:7777/adalet/adalet123/55246
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 SD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 2 SD
+http://dinamikiptv.com:7777/adalet/adalet123/55247
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 3 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55248
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 3 HD
+http://dinamikiptv.com:7777/adalet/adalet123/55249
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 3 SD
+http://dinamikiptv.com:7777/adalet/adalet123/55250
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 4 FHD
+http://dinamikiptv.com:7777/adalet/adalet123/55251
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 4 HD
+http://dinamikiptv.com:7777/adalet/adalet123/55252
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 SD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 4 SD
+http://dinamikiptv.com:7777/adalet/adalet123/55253
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 5 HD
+http://dinamikiptv.com:7777/adalet/adalet123/55254
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 SD" tvg-logo="" group-title="PT | PORTEKİZ",PT: SPORT TV 5 SD
+http://dinamikiptv.com:7777/adalet/adalet123/55255
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PT | PORTEKİZ",PT: BENFICA TV
+http://dinamikiptv.com:7777/adalet/adalet123/55256
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACA & PESCA" tvg-logo="" group-title="PT | PORTEKİZ",PT: CACA & PESCA
+http://dinamikiptv.com:7777/adalet/adalet123/55267
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION" tvg-logo="" group-title="PT | PORTEKİZ",PT: CACAVISION
+http://dinamikiptv.com:7777/adalet/adalet123/55208
