@@ -1023,3 +1023,11 @@ http://85.203.33.45:80/robmag13/W4Nejv829/3308
 http://85.203.33.45:80/robmag13/W4Nejv829/5541
 #EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV 5 FHD PT" tvg-logo="https://picon-13398.kxcdn.com/sporttv5hdpt.jpg" group-title="Live: Portugal",Sport TV 5 FHD PT
 http://85.203.33.45:80/robmag13/W4Nejv829/16297
+#EXTINF:-1 tvg-id="" tvg-name="PT127:CACAVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT127FIGHT NETWORH.png" group-title="PT General",PT127:CACAVISION
+http://c2.coolmyvip.club:8880/hjh14m7402/45696368/29363
+#EXTINF:-1 tvg-id="caca.e.pesca.pt" tvg-name="PT108:CACA E PESCA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT108CACA E PESCA.png" group-title="PT General",PT108:CACA E PESCA
+http://c2.coolmyvip.club:8880/hjh14m7402/45696368/29382
+#EXTINF:-1 tvg-id="" tvg-name="Caçavision PT" tvg-logo="https://picon-13398.kxcdn.com/cacavisiones.jpg" group-title="Live: Portugal",Caçavision PT
+http://85.203.33.45:80/robmag13/W4Nejv829/19627
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="Caza y Pesca PT" tvg-logo="https://picon-13398.kxcdn.com/cazaypesca.jpg" group-title="Live: Portugal",Caza y Pesca PT
+http://85.203.33.45:80/robmag13/W4Nejv829/19626
