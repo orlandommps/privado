@@ -1,4 +1,94 @@
 #EXTM3U
+#EXTINF:-1,SPORT TV 1 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1318
+#EXTINF:-1,SPORT TV 1 HD
+http://vpnotuga.site:8080/alcains3/alcains/1317
+#EXTINF:-1,SPORT TV 1
+http://vpnotuga.site:8080/alcains3/alcains/1316
+#EXTINF:-1,SPORT TV 1 EXTRA
+http://vpnotuga.site:8080/alcains3/alcains/12187
+#EXTINF:-1,SPORT TV 1 EXTRA HD
+http://vpnotuga.site:8080/alcains3/alcains/12188
+#EXTINF:-1,SPORT TV 1 HDD EXTRA
+http://vpnotuga.site:8080/alcains3/alcains/12189
+#EXTINF:-1,SPORT TV 2 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1321
+#EXTINF:-1,SPORT TV 2 HD
+http://vpnotuga.site:8080/alcains3/alcains/1320
+#EXTINF:-1,SPORT TV 2
+http://vpnotuga.site:8080/alcains3/alcains/1319
+#EXTINF:-1,SPORT TV 3 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1324
+#EXTINF:-1,SPORT TV 3 HD
+http://vpnotuga.site:8080/alcains3/alcains/1323
+#EXTINF:-1,SPORT TV 3
+http://vpnotuga.site:8080/alcains3/alcains/1322
+#EXTINF:-1,SPORT TV 4 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1327
+#EXTINF:-1,SPORT TV 4 HD
+http://vpnotuga.site:8080/alcains3/alcains/1326
+#EXTINF:-1,SPORT TV 4
+http://vpnotuga.site:8080/alcains3/alcains/1325
+#EXTINF:-1,SPORT TV 5 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1330
+#EXTINF:-1,SPORT TV 5 HD
+http://vpnotuga.site:8080/alcains3/alcains/1329
+#EXTINF:-1,SPORT TV 5
+http://vpnotuga.site:8080/alcains3/alcains/1328
+#EXTINF:-1,ELEVEN SPORTS 1 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1335
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://vpnotuga.site:8080/alcains3/alcains/1334
+#EXTINF:-1,ELEVEN SPORTS 1
+http://vpnotuga.site:8080/alcains3/alcains/1333
+#EXTINF:-1,ELEVEN SPORTS 1 HD EXTRA
+http://vpnotuga.site:8080/alcains3/alcains/9276
+#EXTINF:-1,ELEVEN SPORTS 2 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1338
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://vpnotuga.site:8080/alcains3/alcains/1337
+#EXTINF:-1,ELEVEN SPORTS 2
+http://vpnotuga.site:8080/alcains3/alcains/1336
+#EXTINF:-1,ELEVEN SPORTS 3 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1341
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://vpnotuga.site:8080/alcains3/alcains/1340
+#EXTINF:-1,ELEVEN SPORTS 3
+http://vpnotuga.site:8080/alcains3/alcains/1339
+#EXTINF:-1,ELEVEN SPORTS 4 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1344
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://vpnotuga.site:8080/alcains3/alcains/1343
+#EXTINF:-1,ELEVEN SPORTS 4
+http://vpnotuga.site:8080/alcains3/alcains/1342
+#EXTINF:-1,ELEVEN SPORTS 5 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1347
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://vpnotuga.site:8080/alcains3/alcains/1346
+#EXTINF:-1,ELEVEN SPORTS 5
+http://vpnotuga.site:8080/alcains3/alcains/1345
+#EXTINF:-1,ELEVEN SPORTS 6 HDD
+http://vpnotuga.site:8080/alcains3/alcains/1350
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://vpnotuga.site:8080/alcains3/alcains/1349
+#EXTINF:-1,ELEVEN SPORTS 6
+http://vpnotuga.site:8080/alcains3/alcains/1348
+#EXTINF:-1,BENFICA TV HDD
+http://vpnotuga.site:8080/alcains3/alcains/1353
+#EXTINF:-1,BENFICA TV HD
+http://vpnotuga.site:8080/alcains3/alcains/1352
+#EXTINF:-1,BENFICA TV 1 EXTRA
+http://vpnotuga.site:8080/alcains3/alcains/12193
+#EXTINF:-1,BENFICA TV 1 EXTRA HD
+http://vpnotuga.site:8080/alcains3/alcains/12194
+#EXTINF:-1,BENFICA TV
+http://vpnotuga.site:8080/alcains3/alcains/1351
+#EXTINF:-1,CAÇAVISION
+http://vpnotuga.site:8080/alcains3/alcains/1241
+#EXTINF:-1,CAÇA E PESCA HD
+http://vpnotuga.site:8080/alcains3/alcains/1360
+#EXTINF:-1,CAÇA E PESCA
+http://vpnotuga.site:8080/alcains3/alcains/1359
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://195.181.173.72:80/kakp9NXlCI/hQRZikedBS/376
 #EXTINF:-1,PT: SPORT TV 1
@@ -15,10 +105,6 @@ http://195.181.173.72:80/kakp9NXlCI/hQRZikedBS/381
 http://195.181.173.72:80/kakp9NXlCI/hQRZikedBS/382
 #EXTINF:-1,PT: SPORT TV 5
 http://195.181.173.72:80/kakp9NXlCI/hQRZikedBS/383
-#EXTINF:-1,PT: SPORT TV +
-http://195.181.173.72:80/kakp9NXlCI/hQRZikedBS/384
-#EXTINF:-1,PT: Sporting TV
-http://195.181.173.72:80/kakp9NXlCI/hQRZikedBS/385
 #EXTINF:-1,PT: Eleven Sports 1 HD
 http://195.181.173.72:80/kakp9NXlCI/hQRZikedBS/386
 #EXTINF:-1,PT: Eleven Sports 2 HD
