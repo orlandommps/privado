@@ -89,6 +89,50 @@ http://vpnotuga.site:8080/alcains3/alcains/1241
 http://vpnotuga.site:8080/alcains3/alcains/1360
 #EXTINF:-1,CAÇA E PESCA
 http://vpnotuga.site:8080/alcains3/alcains/1359
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 1 HD
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68419
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT - SPORT TV 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 2 HD
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68418
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT - SPORT TV 3 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 3 HD
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68417
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT - SPORT TV 1" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 1
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68424
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT - SPORT TV 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 2
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68423
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT - SPORT TV 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 3
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68422
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT - SPORT TV 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 4
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68421
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT - SPORT TV 5" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PORTUGAL",PT - SPORT TV 5
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68420
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT - ELEVEN SPORTS 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 1 HD
+http://bestott.net:80/pmtest101301/7D314483A6A8280/151547
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT - ELEVEN SPORTS 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 2 HD
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68307
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT - ELEVEN SPORTS 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 3
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68306
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT - ELEVEN SPORTS 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 4
+http://bestott.net:80/pmtest101301/7D314483A6A8280/68305
+#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 1 HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107500
+#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 2 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 2 HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107501
+#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV 3 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV 3 HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107502
+#EXTINF:-1 tvg-id="" tvg-name="PT - SPORT TV NBA HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png" group-title="EU | PORTUGAL",PT - SPORT TV NBA HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107503
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 1 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 1 HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107504
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 2 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 2 HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107505
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS  3 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS  3 HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107506
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 4 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 4 HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107507
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 5 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 5 HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107508
+#EXTINF:-1 tvg-id="" tvg-name="PT - ELEVEN SPORTS 6 HEVC" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/ELEVENSPORTS.png" group-title="EU | PORTUGAL",PT - ELEVEN SPORTS 6 HEVC
+http://bestott.net:80/pmtest101301/7D314483A6A8280/107509
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://195.181.173.72:80/kakp9NXlCI/hQRZikedBS/376
 #EXTINF:-1,PT: SPORT TV 1
