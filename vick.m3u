@@ -1,740 +1,220 @@
 #EXTM3U
-#EXTINF:-1,---- PORTUGAL -----
-http://vpnotuga.site:8080/alcains3/alcains/1412
-#EXTINF:-1,RTP 1 HD
-http://vpnotuga.site:8080/alcains3/alcains/12460
-#EXTINF:-1,RTP 1
-http://vpnotuga.site:8080/alcains3/alcains/1413
-#EXTINF:-1,RTP 2 HD
-http://vpnotuga.site:8080/alcains3/alcains/1416
-#EXTINF:-1,RTP 2
-http://vpnotuga.site:8080/alcains3/alcains/1415
-#EXTINF:-1,SIC HD
-http://vpnotuga.site:8080/alcains3/alcains/1418
-#EXTINF:-1,SIC
-http://vpnotuga.site:8080/alcains3/alcains/1417
-#EXTINF:-1,TVI HD
-http://vpnotuga.site:8080/alcains3/alcains/1420
-#EXTINF:-1,TVI
-http://vpnotuga.site:8080/alcains3/alcains/1419
-#EXTINF:-1,TVI FICCAO HD
-http://vpnotuga.site:8080/alcains3/alcains/1421
-#EXTINF:-1,TVI FICCAO 
-http://vpnotuga.site:8080/alcains3/alcains/9263
-#EXTINF:-1,TVI REALITY HD
-http://vpnotuga.site:8080/alcains3/alcains/1422
-#EXTINF:-1,TVI REALITY
-http://vpnotuga.site:8080/alcains3/alcains/9262
-#EXTINF:-1,TVI REALITY CAM 1
-http://vpnotuga.site:8080/alcains3/alcains/9258
-#EXTINF:-1,TVI REALITY CAM 2 
-http://vpnotuga.site:8080/alcains3/alcains/9259
-#EXTINF:-1,TVI REALITY CAM 3
-http://vpnotuga.site:8080/alcains3/alcains/9260
-#EXTINF:-1,TVI REALITY CAM 
-http://vpnotuga.site:8080/alcains3/alcains/9261
-#EXTINF:-1,SIC CARAS HD
-http://vpnotuga.site:8080/alcains3/alcains/1429
-#EXTINF:-1,SIC CARAS
-http://vpnotuga.site:8080/alcains3/alcains/9254
-#EXTINF:-1,SIC MULHER HD
-http://vpnotuga.site:8080/alcains3/alcains/1431
-#EXTINF:-1,SIC MULHER
-http://vpnotuga.site:8080/alcains3/alcains/9255
-#EXTINF:-1,SIC RADICAL HD
-http://vpnotuga.site:8080/alcains3/alcains/1433
-#EXTINF:-1,SIC RADICAL
-http://vpnotuga.site:8080/alcains3/alcains/9253
-#EXTINF:-1,RTP ACORES
-http://vpnotuga.site:8080/alcains3/alcains/1434
-#EXTINF:-1,RTP AFRICA
-http://vpnotuga.site:8080/alcains3/alcains/1435
-#EXTINF:-1,RTP MADEIRA
-http://vpnotuga.site:8080/alcains3/alcains/1436
-#EXTINF:-1,RTP MEMORIA
-http://vpnotuga.site:8080/alcains3/alcains/1437
-#EXTINF:-1,GLOBO HD
-http://vpnotuga.site:8080/alcains3/alcains/1439
-#EXTINF:-1,GLOBO 
-http://vpnotuga.site:8080/alcains3/alcains/9251
-#EXTINF:-1,GLOBO NOW HD
-http://vpnotuga.site:8080/alcains3/alcains/1441
-#EXTINF:-1,GLOBO NOW
-http://vpnotuga.site:8080/alcains3/alcains/9252
-#EXTINF:-1,TPA
-http://vpnotuga.site:8080/alcains3/alcains/1442
-#EXTINF:-1,ZAP VIVA
-http://vpnotuga.site:8080/alcains3/alcains/1443
-#EXTINF:-1,TV RECORD 
-http://vpnotuga.site:8080/alcains3/alcains/1445
-#EXTINF:-1,PORTO CANAL 
-http://vpnotuga.site:8080/alcains3/alcains/1447
-#EXTINF:-1,SPORTING TV HD
-http://vpnotuga.site:8080/alcains3/alcains/1449
-#EXTINF:-1,► ► ► INFANTIL  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/1397
-#EXTINF:-1,CANAL PANDA
-http://vpnotuga.site:8080/alcains3/alcains/1408
-#EXTINF:-1,PANDA BIGGS
-http://vpnotuga.site:8080/alcains3/alcains/1409
-#EXTINF:-1,DISNEY JUNIOR
-http://vpnotuga.site:8080/alcains3/alcains/1402
-#EXTINF:-1,DISNEY CHANNEL
-http://vpnotuga.site:8080/alcains3/alcains/1401
-#EXTINF:-1,BABY TV
-http://vpnotuga.site:8080/alcains3/alcains/1398
-#EXTINF:-1,NICK JR
-http://vpnotuga.site:8080/alcains3/alcains/1406
-#EXTINF:-1,JIM JAM
-http://vpnotuga.site:8080/alcains3/alcains/1404
-#EXTINF:-1,SIC K
-http://vpnotuga.site:8080/alcains3/alcains/1410
-#EXTINF:-1,NICKELODEON
-http://vpnotuga.site:8080/alcains3/alcains/1407
-#EXTINF:-1,CARTOON NETWORK
-http://vpnotuga.site:8080/alcains3/alcains/1400
-#EXTINF:-1,GAMETOON
-http://vpnotuga.site:8080/alcains3/alcains/1403
-#EXTINF:-1,► ► ► NOTÍCIAS  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/1374
-#EXTINF:-1,CMTV HD
-http://vpnotuga.site:8080/alcains3/alcains/1376
-#EXTINF:-1,CMTV
-http://vpnotuga.site:8080/alcains3/alcains/1375
-#EXTINF:-1,RTP 3 HD
-http://vpnotuga.site:8080/alcains3/alcains/1378
-#EXTINF:-1,RTP 3
-http://vpnotuga.site:8080/alcains3/alcains/1377
-#EXTINF:-1,SIC NOTICIAS HD
-http://vpnotuga.site:8080/alcains3/alcains/1380
-#EXTINF:-1,SIC NOTICIAS
-http://vpnotuga.site:8080/alcains3/alcains/1379
-#EXTINF:-1,SPORT TV + HD
-http://vpnotuga.site:8080/alcains3/alcains/1382
-#EXTINF:-1,SPORT TV +
-http://vpnotuga.site:8080/alcains3/alcains/1381
-#EXTINF:-1,TVI 24
-http://vpnotuga.site:8080/alcains3/alcains/1383
-#EXTINF:-1,COVID 19
-http://vpnotuga.site:8080/alcains3/alcains/13174
-#EXTINF:-1,RECORD NEWS
-http://vpnotuga.site:8080/alcains3/alcains/1393
-#EXTINF:-1,GLOBO NEWS
-http://vpnotuga.site:8080/alcains3/alcains/10987
-#EXTINF:-1,A BOLA TV HD
-http://vpnotuga.site:8080/alcains3/alcains/1385
-#EXTINF:-1,A BOLA TV
-http://vpnotuga.site:8080/alcains3/alcains/1384
-#EXTINF:-1,ARTV
-http://vpnotuga.site:8080/alcains3/alcains/1386
-#EXTINF:-1,CNN
-http://vpnotuga.site:8080/alcains3/alcains/1390
-#EXTINF:-1,BBC WORLD NEWS
-http://vpnotuga.site:8080/alcains3/alcains/1387
-#EXTINF:-1,FRANCE 24
-http://vpnotuga.site:8080/alcains3/alcains/1392
-#EXTINF:-1,TVC NEWS
-http://vpnotuga.site:8080/alcains3/alcains/1396
-#EXTINF:-1,► ► ► DESPORTO  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/1315
-#EXTINF:-1,SPORT TV 1 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1318
-#EXTINF:-1,SPORT TV 1 HD
-http://vpnotuga.site:8080/alcains3/alcains/1317
-#EXTINF:-1,SPORT TV 1
-http://vpnotuga.site:8080/alcains3/alcains/1316
-#EXTINF:-1,SPORT TV 1 EXTRA
-http://vpnotuga.site:8080/alcains3/alcains/12187
-#EXTINF:-1,SPORT TV 1 EXTRA HD
-http://vpnotuga.site:8080/alcains3/alcains/12188
-#EXTINF:-1,SPORT TV 1 HDD EXTRA
-http://vpnotuga.site:8080/alcains3/alcains/12189
-#EXTINF:-1,SPORT TV 2 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1321
-#EXTINF:-1,SPORT TV 2 HD
-http://vpnotuga.site:8080/alcains3/alcains/1320
-#EXTINF:-1,SPORT TV 2
-http://vpnotuga.site:8080/alcains3/alcains/1319
-#EXTINF:-1,SPORT TV 3 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1324
-#EXTINF:-1,SPORT TV 3 HD
-http://vpnotuga.site:8080/alcains3/alcains/1323
-#EXTINF:-1,SPORT TV 3
-http://vpnotuga.site:8080/alcains3/alcains/1322
-#EXTINF:-1,SPORT TV 4 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1327
-#EXTINF:-1,SPORT TV 4 HD
-http://vpnotuga.site:8080/alcains3/alcains/1326
-#EXTINF:-1,SPORT TV 4
-http://vpnotuga.site:8080/alcains3/alcains/1325
-#EXTINF:-1,SPORT TV 5 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1330
-#EXTINF:-1,SPORT TV 5 HD
-http://vpnotuga.site:8080/alcains3/alcains/1329
-#EXTINF:-1,SPORT TV 5
-http://vpnotuga.site:8080/alcains3/alcains/1328
-#EXTINF:-1,SPORT TV NBA HD
-http://vpnotuga.site:8080/alcains3/alcains/1332
-#EXTINF:-1,ELEVEN SPORTS 1 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1335
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://vpnotuga.site:8080/alcains3/alcains/1334
-#EXTINF:-1,ELEVEN SPORTS 1
-http://vpnotuga.site:8080/alcains3/alcains/1333
-#EXTINF:-1,ELEVEN SPORTS 1 HD EXTRA
-http://vpnotuga.site:8080/alcains3/alcains/9276
-#EXTINF:-1,ELEVEN SPORTS 2 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1338
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://vpnotuga.site:8080/alcains3/alcains/1337
-#EXTINF:-1,ELEVEN SPORTS 2
-http://vpnotuga.site:8080/alcains3/alcains/1336
-#EXTINF:-1,ELEVEN SPORTS 3 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1341
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://vpnotuga.site:8080/alcains3/alcains/1340
-#EXTINF:-1,ELEVEN SPORTS 3
-http://vpnotuga.site:8080/alcains3/alcains/1339
-#EXTINF:-1,ELEVEN SPORTS 4 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1344
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://vpnotuga.site:8080/alcains3/alcains/1343
-#EXTINF:-1,ELEVEN SPORTS 4
-http://vpnotuga.site:8080/alcains3/alcains/1342
-#EXTINF:-1,ELEVEN SPORTS 5 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1347
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://vpnotuga.site:8080/alcains3/alcains/1346
-#EXTINF:-1,ELEVEN SPORTS 5
-http://vpnotuga.site:8080/alcains3/alcains/1345
-#EXTINF:-1,ELEVEN SPORTS 6 HDD
-http://vpnotuga.site:8080/alcains3/alcains/1350
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://vpnotuga.site:8080/alcains3/alcains/1349
-#EXTINF:-1,ELEVEN SPORTS 6
-http://vpnotuga.site:8080/alcains3/alcains/1348
-#EXTINF:-1,BENFICA TV HDD
-http://vpnotuga.site:8080/alcains3/alcains/1353
-#EXTINF:-1,BENFICA TV HD
-http://vpnotuga.site:8080/alcains3/alcains/1352
-#EXTINF:-1,BENFICA TV 1 EXTRA
-http://vpnotuga.site:8080/alcains3/alcains/12193
-#EXTINF:-1,BENFICA TV 1 EXTRA HD
-http://vpnotuga.site:8080/alcains3/alcains/12194
-#EXTINF:-1,BENFICA TV
-http://vpnotuga.site:8080/alcains3/alcains/1351
-#EXTINF:-1,COMBATE HD
-http://vpnotuga.site:8080/alcains3/alcains/1355
-#EXTINF:-1,COMBATE
-http://vpnotuga.site:8080/alcains3/alcains/1354
-#EXTINF:-1,CANAL 11 HD
-http://vpnotuga.site:8080/alcains3/alcains/1357
-#EXTINF:-1,CANAL 11
-http://vpnotuga.site:8080/alcains3/alcains/1356
-#EXTINF:-1,PFC
-http://vpnotuga.site:8080/alcains3/alcains/1358
-#EXTINF:-1,EUROSPORT 1 HD
-http://vpnotuga.site:8080/alcains3/alcains/1362
-#EXTINF:-1,EUROSPORT 1
-http://vpnotuga.site:8080/alcains3/alcains/1361
-#EXTINF:-1,EUROSPORT 2
-http://vpnotuga.site:8080/alcains3/alcains/1363
-#EXTINF:-1,FIGHT NETWORK  HD
-http://vpnotuga.site:8080/alcains3/alcains/1365
-#EXTINF:-1,FUEL TV HD
-http://vpnotuga.site:8080/alcains3/alcains/1367
-#EXTINF:-1,FUEL TV
-http://vpnotuga.site:8080/alcains3/alcains/1366
-#EXTINF:-1,KOMBAT SPORT
-http://vpnotuga.site:8080/alcains3/alcains/1369
-#EXTINF:-1,MOTORVISION HD
-http://vpnotuga.site:8080/alcains3/alcains/1371
-#EXTINF:-1,NBA TV
-http://vpnotuga.site:8080/alcains3/alcains/1372
-#EXTINF:-1,GINX ESPORTS TV
-http://vpnotuga.site:8080/alcains3/alcains/1368
-#EXTINF:-1,RED BULL TV
-http://vpnotuga.site:8080/alcains3/alcains/1373
-#EXTINF:-1,► ► ► FILMES & SERIES  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/1279
-#EXTINF:-1,NOS STUDIOS HD
-http://vpnotuga.site:8080/alcains3/alcains/1281
-#EXTINF:-1,TVCINE TOP HD
-http://vpnotuga.site:8080/alcains3/alcains/1283
-#EXTINF:-1,TVCINE TOP
-http://vpnotuga.site:8080/alcains3/alcains/1282
-#EXTINF:-1,TVCINE EDITION HD
-http://vpnotuga.site:8080/alcains3/alcains/1285
-#EXTINF:-1,TVCINE EDITION
-http://vpnotuga.site:8080/alcains3/alcains/1284
-#EXTINF:-1,TVCINE EMOTION HD
-http://vpnotuga.site:8080/alcains3/alcains/1287
-#EXTINF:-1,TVCINE EMOTION
-http://vpnotuga.site:8080/alcains3/alcains/1286
-#EXTINF:-1,TVCINE ACTION HD
-http://vpnotuga.site:8080/alcains3/alcains/1289
-#EXTINF:-1,TVCINE ACTION
-http://vpnotuga.site:8080/alcains3/alcains/1288
-#EXTINF:-1,AXN HD
-http://vpnotuga.site:8080/alcains3/alcains/1293
-#EXTINF:-1,AXN
-http://vpnotuga.site:8080/alcains3/alcains/1292
-#EXTINF:-1,AXN MOVIES HD
-http://vpnotuga.site:8080/alcains3/alcains/1295
-#EXTINF:-1,AXN MOVIES 
-http://vpnotuga.site:8080/alcains3/alcains/1294
-#EXTINF:-1,AXN WHITE HD
-http://vpnotuga.site:8080/alcains3/alcains/1297
-#EXTINF:-1,AXN WHITE
-http://vpnotuga.site:8080/alcains3/alcains/1296
-#EXTINF:-1,SYFY HD
-http://vpnotuga.site:8080/alcains3/alcains/1299
-#EXTINF:-1,SYFY
-http://vpnotuga.site:8080/alcains3/alcains/1298
-#EXTINF:-1,CINEMUNDO HD
-http://vpnotuga.site:8080/alcains3/alcains/1301
-#EXTINF:-1,CINEMUNDO
-http://vpnotuga.site:8080/alcains3/alcains/1300
-#EXTINF:-1,FOX HD
-http://vpnotuga.site:8080/alcains3/alcains/1303
-#EXTINF:-1,FOX
-http://vpnotuga.site:8080/alcains3/alcains/1302
-#EXTINF:-1,FOX COMEDY HD
-http://vpnotuga.site:8080/alcains3/alcains/1305
-#EXTINF:-1,FOX COMEDY
-http://vpnotuga.site:8080/alcains3/alcains/1304
-#EXTINF:-1,FOX CRIME HD
-http://vpnotuga.site:8080/alcains3/alcains/1307
-#EXTINF:-1,FOX CRIME
-http://vpnotuga.site:8080/alcains3/alcains/1306
-#EXTINF:-1,FOX LIFE HD
-http://vpnotuga.site:8080/alcains3/alcains/1309
-#EXTINF:-1,FOX LIFE
-http://vpnotuga.site:8080/alcains3/alcains/1308
-#EXTINF:-1,FOX MOVIES HD
-http://vpnotuga.site:8080/alcains3/alcains/1311
-#EXTINF:-1,FOX MOVIES
-http://vpnotuga.site:8080/alcains3/alcains/1310
-#EXTINF:-1,HOLLYWOOD HD
-http://vpnotuga.site:8080/alcains3/alcains/1313
-#EXTINF:-1,HOLLYWOOD
-http://vpnotuga.site:8080/alcains3/alcains/1312
-#EXTINF:-1,► ► ► ENTRETENIMENTO  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/1217
-#EXTINF:-1,WWE CHANNEL
-http://vpnotuga.site:8080/alcains3/alcains/12192
-#EXTINF:-1,CASA E COZINHA
-http://vpnotuga.site:8080/alcains3/alcains/9256
-#EXTINF:-1,24 KITCHEN HD
-http://vpnotuga.site:8080/alcains3/alcains/1219
-#EXTINF:-1,24 KITCHEN
-http://vpnotuga.site:8080/alcains3/alcains/1218
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://vpnotuga.site:8080/alcains3/alcains/1221
-#EXTINF:-1,DISCOVERY CHANNEL
-http://vpnotuga.site:8080/alcains3/alcains/1220
-#EXTINF:-1,ID INVESTIGATION DISCOVERY HD
-http://vpnotuga.site:8080/alcains3/alcains/1227
-#EXTINF:-1,AMC HD
-http://vpnotuga.site:8080/alcains3/alcains/1235
-#EXTINF:-1,AMC
-http://vpnotuga.site:8080/alcains3/alcains/1234
-#EXTINF:-1,BLAZE HD
-http://vpnotuga.site:8080/alcains3/alcains/1238
-#EXTINF:-1,BLAZE
-http://vpnotuga.site:8080/alcains3/alcains/1237
-#EXTINF:-1,THE FOOD NETWORK HD
-http://vpnotuga.site:8080/alcains3/alcains/1267
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://vpnotuga.site:8080/alcains3/alcains/2791
-#EXTINF:-1,CAMPO PEQUENO
-http://vpnotuga.site:8080/alcains3/alcains/9257
-#EXTINF:-1,CAÇAVISION
-http://vpnotuga.site:8080/alcains3/alcains/1241
-#EXTINF:-1,CAÇA E PESCA HD
-http://vpnotuga.site:8080/alcains3/alcains/1360
-#EXTINF:-1,CAÇA E PESCA
-http://vpnotuga.site:8080/alcains3/alcains/1359
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://vpnotuga.site:8080/alcains3/alcains/1230
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://vpnotuga.site:8080/alcains3/alcains/1229
-#EXTINF:-1,HISTORIA
-http://vpnotuga.site:8080/alcains3/alcains/1226
-#EXTINF:-1,E! HD
-http://vpnotuga.site:8080/alcains3/alcains/1225
-#EXTINF:-1,E! 
-http://vpnotuga.site:8080/alcains3/alcains/1224
-#EXTINF:-1,DOG TV HD
-http://vpnotuga.site:8080/alcains3/alcains/1223
-#EXTINF:-1,MY CUISINE
-http://vpnotuga.site:8080/alcains3/alcains/1228
-#EXTINF:-1,ODISSEIA
-http://vpnotuga.site:8080/alcains3/alcains/1232
-#EXTINF:-1,CRIME INVESTIGATION
-http://vpnotuga.site:8080/alcains3/alcains/1233
-#EXTINF:-1,BBC ENTERTAINMENT
-http://vpnotuga.site:8080/alcains3/alcains/1236
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://vpnotuga.site:8080/alcains3/alcains/1231
-#EXTINF:-1,BLOOMBERG
-http://vpnotuga.site:8080/alcains3/alcains/1239
-#EXTINF:-1,CANAL Q
-http://vpnotuga.site:8080/alcains3/alcains/1240
-#EXTINF:-1,CANÇAO NOVA
-http://vpnotuga.site:8080/alcains3/alcains/1242
-#EXTINF:-1,CBS REALITY
-http://vpnotuga.site:8080/alcains3/alcains/1243
-#EXTINF:-1,CLUBBING TV
-http://vpnotuga.site:8080/alcains3/alcains/1245
-#EXTINF:-1,DEUTSCHE WELLE
-http://vpnotuga.site:8080/alcains3/alcains/1246
-#EXTINF:-1,FASHION TV 
-http://vpnotuga.site:8080/alcains3/alcains/1249
-#EXTINF:-1,FINE LIVING NETWORK HD
-http://vpnotuga.site:8080/alcains3/alcains/1250
-#EXTINF:-1,KURIAKOS TV HD
-http://vpnotuga.site:8080/alcains3/alcains/1251
-#EXTINF:-1,LOCALVISAO HD
-http://vpnotuga.site:8080/alcains3/alcains/1253
-#EXTINF:-1,LUXE TV HD
-http://vpnotuga.site:8080/alcains3/alcains/1254
-#EXTINF:-1,MAS CHIC
-http://vpnotuga.site:8080/alcains3/alcains/1255
-#EXTINF:-1,MIAMI TV
-http://vpnotuga.site:8080/alcains3/alcains/1256
-#EXTINF:-1,MVM
-http://vpnotuga.site:8080/alcains3/alcains/1257
-#EXTINF:-1,OUTDOOR HD
-http://vpnotuga.site:8080/alcains3/alcains/1259
-#EXTINF:-1,REGIOES TV
-http://vpnotuga.site:8080/alcains3/alcains/1260
-#EXTINF:-1,RT DOC HD
-http://vpnotuga.site:8080/alcains3/alcains/1262
-#EXTINF:-1,SAUDE HD
-http://vpnotuga.site:8080/alcains3/alcains/1265
-#EXTINF:-1,FATIMA TV
-http://vpnotuga.site:8080/alcains3/alcains/1278
-#EXTINF:-1,180 HD
-http://vpnotuga.site:8080/alcains3/alcains/1273
-#EXTINF:-1,TOROS TV 
-http://vpnotuga.site:8080/alcains3/alcains/1271
-#EXTINF:-1,TLC
-http://vpnotuga.site:8080/alcains3/alcains/1269
-#EXTINF:-1,THE QYOU HD
-http://vpnotuga.site:8080/alcains3/alcains/1268
-#EXTINF:-1,► ► ► MUSICA  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/1201
-#EXTINF:-1,AFRO MUSIC
-http://vpnotuga.site:8080/alcains3/alcains/1202
-#EXTINF:-1,C-MUSIC
-http://vpnotuga.site:8080/alcains3/alcains/1203
-#EXTINF:-1,ICONCERTS
-http://vpnotuga.site:8080/alcains3/alcains/1204
-#EXTINF:-1,MCM POP
-http://vpnotuga.site:8080/alcains3/alcains/1207
-#EXTINF:-1,MTV
-http://vpnotuga.site:8080/alcains3/alcains/1209
-#EXTINF:-1,MTV HD
-http://vpnotuga.site:8080/alcains3/alcains/1210
-#EXTINF:-1,TRACE TOCA HD
-http://vpnotuga.site:8080/alcains3/alcains/1213
-#EXTINF:-1,TRACE TOCA
-http://vpnotuga.site:8080/alcains3/alcains/1212
-#EXTINF:-1,TRACE URBAN HD
-http://vpnotuga.site:8080/alcains3/alcains/1215
-#EXTINF:-1,TRACE URBAN
-http://vpnotuga.site:8080/alcains3/alcains/1214
-#EXTINF:-1,VH1
-http://vpnotuga.site:8080/alcains3/alcains/1216
-#EXTINF:-1,MEZZO
-http://vpnotuga.site:8080/alcains3/alcains/1208
-#EXTINF:-1,► ► ► CANAIS INTERNACIONAIS  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/1117
-#EXTINF:-1,TVE INTERNACIONAL
-http://vpnotuga.site:8080/alcains3/alcains/1128
-#EXTINF:-1,TV MOCAMBIQUE INTERNACIONAL
-http://vpnotuga.site:8080/alcains3/alcains/1127
-#EXTINF:-1,TV MOCAMBIQUE
-http://vpnotuga.site:8080/alcains3/alcains/1126
-#EXTINF:-1,TV GALICIA
-http://vpnotuga.site:8080/alcains3/alcains/1125
-#EXTINF:-1,MACAU TV
-http://vpnotuga.site:8080/alcains3/alcains/1121
-#EXTINF:-1,TCV INTERNACIONAL
-http://vpnotuga.site:8080/alcains3/alcains/9264
-#EXTINF:-1,TVSERIES 
-http://vpnotuga.site:8080/alcains3/alcains/13175
-#EXTINF:-1,AZORES TV
-http://vpnotuga.site:8080/alcains3/alcains/13176
-#EXTINF:-1,TRANCE URBAN
-http://vpnotuga.site:8080/alcains3/alcains/13178
-#EXTINF:-1,TRANCE TOCA
-http://vpnotuga.site:8080/alcains3/alcains/13179
-#EXTINF:-1,ᴴ²⁶⁵: 24 Kitchen HD
-http://vpnotuga.site:8080/alcains3/alcains/12749
-#EXTINF:-1,ᴴ²⁶⁵: A Bola
-http://vpnotuga.site:8080/alcains3/alcains/12750
-#EXTINF:-1,ᴴ²⁶⁵: Amc
-http://vpnotuga.site:8080/alcains3/alcains/12751
-#EXTINF:-1,ᴴ²⁶⁵: AXN FHD
-http://vpnotuga.site:8080/alcains3/alcains/12752
-#EXTINF:-1,ᴴ²⁶⁵: AXN HD
-http://vpnotuga.site:8080/alcains3/alcains/12753
-#EXTINF:-1,ᴴ²⁶⁵: AXN MOVIES HD
-http://vpnotuga.site:8080/alcains3/alcains/12754
-#EXTINF:-1,ᴴ²⁶⁵: AXN White HD
-http://vpnotuga.site:8080/alcains3/alcains/12755
-#EXTINF:-1,ᴴ²⁶⁵: BENFICA TV FHD
-http://vpnotuga.site:8080/alcains3/alcains/12756
-#EXTINF:-1,ᴴ²⁶⁵: BENFICA TV HD
-http://vpnotuga.site:8080/alcains3/alcains/12757
-#EXTINF:-1,ᴴ²⁶⁵: CANAL 11 HD
-http://vpnotuga.site:8080/alcains3/alcains/12758
-#EXTINF:-1,ᴴ²⁶⁵: CASA COZINHA HD
-http://vpnotuga.site:8080/alcains3/alcains/12759
-#EXTINF:-1,ᴴ²⁶⁵: Cinemundo HD
-http://vpnotuga.site:8080/alcains3/alcains/12760
-#EXTINF:-1,ᴴ²⁶⁵: CMTV FHD
-http://vpnotuga.site:8080/alcains3/alcains/12761
-#EXTINF:-1,ᴴ²⁶⁵: CMTV HD
-http://vpnotuga.site:8080/alcains3/alcains/12762
-#EXTINF:-1,ᴴ²⁶⁵: ELEVEN SPORTS 1 FHD
-http://vpnotuga.site:8080/alcains3/alcains/12763
-#EXTINF:-1,ᴴ²⁶⁵: Eleven Sports 1 HD
-http://vpnotuga.site:8080/alcains3/alcains/12764
-#EXTINF:-1,ᴴ²⁶⁵: ELEVEN SPORTS 2 FHD
-http://vpnotuga.site:8080/alcains3/alcains/12765
-#EXTINF:-1,ᴴ²⁶⁵: Eleven Sports 2 HD
-http://vpnotuga.site:8080/alcains3/alcains/12766
-#EXTINF:-1,ᴴ²⁶⁵: Eleven Sports 3
-http://vpnotuga.site:8080/alcains3/alcains/12767
-#EXTINF:-1,ᴴ²⁶⁵: FOX COMEDY HD
-http://vpnotuga.site:8080/alcains3/alcains/12768
-#EXTINF:-1,ᴴ²⁶⁵: Fox Crime HD
-http://vpnotuga.site:8080/alcains3/alcains/12769
-#EXTINF:-1,ᴴ²⁶⁵: Fox FHD
-http://vpnotuga.site:8080/alcains3/alcains/12770
-#EXTINF:-1,ᴴ²⁶⁵: Fox HD
-http://vpnotuga.site:8080/alcains3/alcains/12771
-#EXTINF:-1,ᴴ²⁶⁵: Fox Life HD
-http://vpnotuga.site:8080/alcains3/alcains/12772
-#EXTINF:-1,ᴴ²⁶⁵: Fox Movies HD
-http://vpnotuga.site:8080/alcains3/alcains/12773
-#EXTINF:-1,ᴴ²⁶⁵: Globo HD
-http://vpnotuga.site:8080/alcains3/alcains/12774
-#EXTINF:-1,ᴴ²⁶⁵: HOLLYWOOD HD
-http://vpnotuga.site:8080/alcains3/alcains/12775
-#EXTINF:-1,ᴴ²⁶⁵: National geographic HD
-http://vpnotuga.site:8080/alcains3/alcains/12776
-#EXTINF:-1,ᴴ²⁶⁵: NOS STUDIO HD
-http://vpnotuga.site:8080/alcains3/alcains/12777
-#EXTINF:-1,ᴴ²⁶⁵: RTP 1 HD
-http://vpnotuga.site:8080/alcains3/alcains/12779
-#EXTINF:-1,ᴴ²⁶⁵: RTP 2 HD
-http://vpnotuga.site:8080/alcains3/alcains/12780
-#EXTINF:-1,ᴴ²⁶⁵: RTP 3
-http://vpnotuga.site:8080/alcains3/alcains/12781
-#EXTINF:-1,ᴴ²⁶⁵: SIC CARAS HD
-http://vpnotuga.site:8080/alcains3/alcains/12782
-#EXTINF:-1,ᴴ²⁶⁵: SIC HD
-http://vpnotuga.site:8080/alcains3/alcains/12784
-#EXTINF:-1,ᴴ²⁶⁵: Sic Mulher
-http://vpnotuga.site:8080/alcains3/alcains/12785
-#EXTINF:-1,ᴴ²⁶⁵: SIC Noticias HD
-http://vpnotuga.site:8080/alcains3/alcains/12786
-#EXTINF:-1,ᴴ²⁶⁵: SIC Radical
-http://vpnotuga.site:8080/alcains3/alcains/12787
-#EXTINF:-1,ᴴ²⁶⁵: Sport TV + HD
-http://vpnotuga.site:8080/alcains3/alcains/12788
-#EXTINF:-1,ᴴ²⁶⁵: Sport TV 1 HD
-http://vpnotuga.site:8080/alcains3/alcains/12789
-#EXTINF:-1,ᴴ²⁶⁵: SPORT TV 2 FHD
-http://vpnotuga.site:8080/alcains3/alcains/12790
-#EXTINF:-1,ᴴ²⁶⁵: Sport TV 2 HD
-http://vpnotuga.site:8080/alcains3/alcains/12791
-#EXTINF:-1,ᴴ²⁶⁵: Sport TV 3 HD
-http://vpnotuga.site:8080/alcains3/alcains/12792
-#EXTINF:-1,ᴴ²⁶⁵: Sport TV 4
-http://vpnotuga.site:8080/alcains3/alcains/12793
-#EXTINF:-1,ᴴ²⁶⁵: Sport TV 5 HD
-http://vpnotuga.site:8080/alcains3/alcains/12794
-#EXTINF:-1,ᴴ²⁶⁵: SYFY
-http://vpnotuga.site:8080/alcains3/alcains/12795
-#EXTINF:-1,ᴴ²⁶⁵: TVCine ACTION HD
-http://vpnotuga.site:8080/alcains3/alcains/12796
-#EXTINF:-1,ᴴ²⁶⁵: TVCine EDITION HD
-http://vpnotuga.site:8080/alcains3/alcains/12797
-#EXTINF:-1,ᴴ²⁶⁵: TVCine EMOTION HD
-http://vpnotuga.site:8080/alcains3/alcains/12798
-#EXTINF:-1,ᴴ²⁶⁵: TVCine TOP HD
-http://vpnotuga.site:8080/alcains3/alcains/12799
-#EXTINF:-1,ᴴ²⁶⁵: TVI 24 HD
-http://vpnotuga.site:8080/alcains3/alcains/12800
-#EXTINF:-1,ᴴ²⁶⁵: TVI FICÇAO HD
-http://vpnotuga.site:8080/alcains3/alcains/12801
-#EXTINF:-1,ᴴ²⁶⁵: TVI HD
-http://vpnotuga.site:8080/alcains3/alcains/12802
-#EXTINF:-1,ᴴ²⁶⁵:BENFICA TV UHD
-http://vpnotuga.site:8080/alcains3/alcains/12803
-#EXTINF:-1,ᴴ²⁶⁵:SPORT TV 1 UHD
-http://vpnotuga.site:8080/alcains3/alcains/12804
-#EXTINF:-1,----- PORTUGAL  H265 -----
-http://vpnotuga.site:8080/alcains3/alcains/12805
-#EXTINF:-1,► ► ► NOTICIAS  H265 ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/12807
-#EXTINF:-1,► ► ► DESPORTO  H265 ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/12808
-#EXTINF:-1,► ► ► FILMES & SERIES  H265 ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/12809
-#EXTINF:-1,► ► ► ENTRETENIMENTO  H265 ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/12810
-#EXTINF:-1,----- PORTUGAL LOW -----
-http://vpnotuga.site:8080/alcains3/alcains/12691
-#EXTINF:-1,► ► ► INFANTIL LOW  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/12692
-#EXTINF:-1,► ► ► NOTICIAS LOW  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/12693
-#EXTINF:-1,► ► ► DESPORTO LOW  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/12694
-#EXTINF:-1,► ► ► FILMES & SERIES LOW  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/12695
-#EXTINF:-1,► ► ► ENTRETENIMENTO LOW  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/12696
-#EXTINF:-1,A Bola TV LOW
-http://vpnotuga.site:8080/alcains3/alcains/12697
-#EXTINF:-1,AMC LOW
-http://vpnotuga.site:8080/alcains3/alcains/12698
-#EXTINF:-1,AXN LOW
-http://vpnotuga.site:8080/alcains3/alcains/12699
-#EXTINF:-1,AXN Movies LOW
-http://vpnotuga.site:8080/alcains3/alcains/12700
-#EXTINF:-1,AXN White LOW
-http://vpnotuga.site:8080/alcains3/alcains/12701
-#EXTINF:-1,BENFICA LOW
-http://vpnotuga.site:8080/alcains3/alcains/12702
-#EXTINF:-1,Canal 11 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12703
-#EXTINF:-1,Cinemundo LOW
-http://vpnotuga.site:8080/alcains3/alcains/12704
-#EXTINF:-1,CM TV LOW
-http://vpnotuga.site:8080/alcains3/alcains/12705
-#EXTINF:-1,Discovery Channel LOW
-http://vpnotuga.site:8080/alcains3/alcains/12706
-#EXTINF:-1,Disney Channel LOW
-http://vpnotuga.site:8080/alcains3/alcains/12707
-#EXTINF:-1,Disney Junior LOW
-http://vpnotuga.site:8080/alcains3/alcains/12708
-#EXTINF:-1,Eleven Sports 1 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12709
-#EXTINF:-1,Eleven Sports 2 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12710
-#EXTINF:-1,Eleven Sports 3 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12711
-#EXTINF:-1,Eleven Sports 4 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12712
-#EXTINF:-1,Eleven Sports 5 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12713
-#EXTINF:-1,Fox Comedy LOW
-http://vpnotuga.site:8080/alcains3/alcains/12714
-#EXTINF:-1,Fox Crime LOW
-http://vpnotuga.site:8080/alcains3/alcains/12715
-#EXTINF:-1,Fox Life LOW
-http://vpnotuga.site:8080/alcains3/alcains/12716
-#EXTINF:-1,Fox LOW
-http://vpnotuga.site:8080/alcains3/alcains/12717
-#EXTINF:-1,Fox Movies LOW
-http://vpnotuga.site:8080/alcains3/alcains/12718
-#EXTINF:-1,Hollywood LOW
-http://vpnotuga.site:8080/alcains3/alcains/12719
-#EXTINF:-1,MTV Portugal LOW
-http://vpnotuga.site:8080/alcains3/alcains/12720
-#EXTINF:-1,National geographic LOW
-http://vpnotuga.site:8080/alcains3/alcains/12721
-#EXTINF:-1,NOS Studios HQ LOW
-http://vpnotuga.site:8080/alcains3/alcains/12722
-#EXTINF:-1,Panda Biggs LOW
-http://vpnotuga.site:8080/alcains3/alcains/12723
-#EXTINF:-1,Porto Canal LOW
-http://vpnotuga.site:8080/alcains3/alcains/12724
-#EXTINF:-1,RTP 1 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12725
-#EXTINF:-1,RTP 2 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12726
-#EXTINF:-1,RTP 3 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12727
-#EXTINF:-1,RTP Memoria LOW
-http://vpnotuga.site:8080/alcains3/alcains/12728
-#EXTINF:-1,SIC LOW
-http://vpnotuga.site:8080/alcains3/alcains/12729
-#EXTINF:-1,SIC Mulher LOW
-http://vpnotuga.site:8080/alcains3/alcains/12730
-#EXTINF:-1,SIC Noticias LOW
-http://vpnotuga.site:8080/alcains3/alcains/12731
-#EXTINF:-1,SIC Radical LOW
-http://vpnotuga.site:8080/alcains3/alcains/12732
-#EXTINF:-1,Sport TV + LOW
-http://vpnotuga.site:8080/alcains3/alcains/12733
-#EXTINF:-1,Sport TV 1 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12734
-#EXTINF:-1,Sport TV 2 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12735
-#EXTINF:-1,Sport TV 3 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12736
-#EXTINF:-1,Sport TV 4 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12737
-#EXTINF:-1,Sport TV 5 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12738
-#EXTINF:-1,Syfy LOW
-http://vpnotuga.site:8080/alcains3/alcains/12739
-#EXTINF:-1,TLC LOW
-http://vpnotuga.site:8080/alcains3/alcains/12740
-#EXTINF:-1,TVCine ACTION LOW
-http://vpnotuga.site:8080/alcains3/alcains/12741
-#EXTINF:-1,TVCine EDITION LOW
-http://vpnotuga.site:8080/alcains3/alcains/12742
-#EXTINF:-1,TVCine EMOTION LOW
-http://vpnotuga.site:8080/alcains3/alcains/12743
-#EXTINF:-1,TVCine TOP LOW
-http://vpnotuga.site:8080/alcains3/alcains/12744
-#EXTINF:-1,TVI 24 LOW
-http://vpnotuga.site:8080/alcains3/alcains/12745
-#EXTINF:-1,TVI Ficcao LOW
-http://vpnotuga.site:8080/alcains3/alcains/12746
-#EXTINF:-1,TVI LOW
-http://vpnotuga.site:8080/alcains3/alcains/12747
-#EXTINF:-1,TVI REALITY LOW
-http://vpnotuga.site:8080/alcains3/alcains/12748
-#EXTINF:-1,► ► ► KIDS  ► ► ►
-http://vpnotuga.site:8080/alcains3/alcains/2629
-#EXTINF:-1,NICKELODEON  HD
-http://vpnotuga.site:8080/alcains3/alcains/2632
-#EXTINF:-1,NICK JR HD
-http://vpnotuga.site:8080/alcains3/alcains/2633
-#EXTINF:-1,BABY  TV
-http://vpnotuga.site:8080/alcains3/alcains/2637
-#EXTINF:-1,BOOMERANG SD
-http://vpnotuga.site:8080/alcains3/alcains/2638
-#EXTINF:-1,CARTOONNETWORK SD
-http://vpnotuga.site:8080/alcains3/alcains/2639
-#EXTINF:-1,DISCOVERY KIDS HD
-http://vpnotuga.site:8080/alcains3/alcains/2640
-#EXTINF:-1,DISNEY HD
-http://vpnotuga.site:8080/alcains3/alcains/2641
-#EXTINF:-1,DISNEY JUNIOR HD
-http://vpnotuga.site:8080/alcains3/alcains/2642
-#EXTINF:-1,DISNEY XD SD
-http://vpnotuga.site:8080/alcains3/alcains/2643
-#EXTINF:-1,HBO 2 HD
-http://vpnotuga.site:8080/alcains3/alcains/2675
-#EXTINF:-1,HBO HD
-http://vpnotuga.site:8080/alcains3/alcains/2676
-#EXTINF:-1,HBO FAMILY HD
-http://vpnotuga.site:8080/alcains3/alcains/2677
-#EXTINF:-1,HBO PLUS HD
-http://vpnotuga.site:8080/alcains3/alcains/2678
-#EXTINF:-1,HBO SIGNATURE HD
-http://vpnotuga.site:8080/alcains3/alcains/2679
+#EXTINF:-1,##### |PT|HEVC| PORTUGAL #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81833
+#EXTINF:-1,|PT|HEVC| RTP 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81832
+#EXTINF:-1,|PT|HEVC| RTP 2 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81831
+#EXTINF:-1,|PT|HEVC| RTP 3 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81830
+#EXTINF:-1,|PT|HEVC| SIC HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81829
+#EXTINF:-1,|PT|HEVC| SIC MULHER HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81828
+#EXTINF:-1,|PT|HEVC| SIC NOTICIAS HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81827
+#EXTINF:-1,|PT|HEVC| SIC RADICAL HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81826
+#EXTINF:-1,|PT|HEVC| SIC CARAS HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81825
+#EXTINF:-1,|PT|HEVC| TVI FICCAO HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81824
+#EXTINF:-1,|PT|HEVC| TVI HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81823
+#EXTINF:-1,|PT|HEVC| TVI24 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81822
+#EXTINF:-1,|PT|HEVC| PORTO CANAL HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81821
+#EXTINF:-1,|PT|HEVC| GLOBO PORTUGAL HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81820
+#EXTINF:-1,|PT|HEVC| ZAP VIVA HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81819
+#EXTINF:-1,|PT|HEVC| E! ENTERTAINMENT HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81818
+#EXTINF:-1,##### |PT|HEVC| FILMES #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81817
+#EXTINF:-1,|PT|HEVC| AMC HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81816
+#EXTINF:-1,|PT|HEVC| AXN HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81815
+#EXTINF:-1,|PT|HEVC| AXN WHITE HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81814
+#EXTINF:-1,|PT|HEVC| AXN MOVIES HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81813
+#EXTINF:-1,|PT|HEVC| TV CINE TOP HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81812
+#EXTINF:-1,|PT|HEVC| TV CINE EDITION HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81811
+#EXTINF:-1,|PT|HEVC| TV CINE EMOTION HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81810
+#EXTINF:-1,|PT|HEVC| TV CINE ACTION HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81809
+#EXTINF:-1,|PT|HEVC| FOX HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81808
+#EXTINF:-1,|PT|HEVC| FOX MOVIES HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81807
+#EXTINF:-1,|PT|HEVC| FOX CRIME HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81806
+#EXTINF:-1,|PT|HEVC| FOX LIFE HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81805
+#EXTINF:-1,|PT|HEVC| SYFY HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81804
+#EXTINF:-1,|PT|HEVC| BLAZE TV HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81803
+#EXTINF:-1,|PT|HEVC| NOS STUDIO HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81802
+#EXTINF:-1,##### |PT|HEVC| SERIES #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81801
+#EXTINF:-1,|PT|HEVC| HOLLYWOOD HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81800
+#EXTINF:-1,|PT|HEVC| CINEMUNDO HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81799
+#EXTINF:-1,##### |PT|HEVC| CULTURA #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81798
+#EXTINF:-1,|PT|HEVC| NATIONAL GEOGRAPHIC HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81797
+#EXTINF:-1,|PT|HEVC| NAT GEO WILD HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81796
+#EXTINF:-1,|PT|HEVC| ID INVESTIGATION DISCOVERY HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81795
+#EXTINF:-1,|PT|HEVC| TRAVEL CHANNEL HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81794
+#EXTINF:-1,|PT|HEVC| HISTORIA HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81793
+#EXTINF:-1,|PT|HEVC| FINE LIVING NETWORK HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81792
+#EXTINF:-1,|PT|HEVC| DOG TV HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81791
+#EXTINF:-1,|PT|HEVC| ODISSEIA HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81790
+#EXTINF:-1,|PT|HEVC| 24 KITCHEN HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81789
+#EXTINF:-1,|PT|HEVC| CASA E COZINHA HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81788
+#EXTINF:-1,##### |PT|HEVC| DESPORTO #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81787
+#EXTINF:-1,|PT|HEVC| BTV 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81786
+#EXTINF:-1,|PT|HEVC| A BOLA TV HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81785
+#EXTINF:-1,|PT|HEVC| SPORTING TV HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81784
+#EXTINF:-1,|PT|HEVC| EUROSPORT 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81783
+#EXTINF:-1,|PT|HEVC| SPORT TV + HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81782
+#EXTINF:-1,|PT|HEVC| SPORT TV 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81781
+#EXTINF:-1,|PT|HEVC| SPORT TV 2 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81780
+#EXTINF:-1,|PT|HEVC| SPORT TV 3 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81779
+#EXTINF:-1,|PT|HEVC| SPORT TV NBA HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81778
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81777
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 2 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81776
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS  3 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81775
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 4 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81774
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 5 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81773
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 6 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81772
+#EXTINF:-1,|PT|HEVC| FIGHT NETWORK HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81771
+#EXTINF:-1,|PT|HEVC| CANAL 11 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81770
+#EXTINF:-1,|PT|HEVC| CMTV HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81769
+#EXTINF:-1,##### |PT| PORTUGAL #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81768
+#EXTINF:-1,|PT| CORONA VIRUS INFO
+http://rv.therevenge.co:80/mustafa/mustafa123456/81767
+#EXTINF:-1,|PT| RTP 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81766
+#EXTINF:-1,|PT| RTP 2 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81765
+#EXTINF:-1,|PT| RTP 1
+http://rv.therevenge.co:80/mustafa/mustafa123456/81764
+#EXTINF:-1,|PT| RTP 2
+http://rv.therevenge.co:80/mustafa/mustafa123456/81763
+#EXTINF:-1,|PT| RTP 3
+http://rv.therevenge.co:80/mustafa/mustafa123456/81762
+#EXTINF:-1,|PT| RTP INTERNATIONAL
+http://rv.therevenge.co:80/mustafa/mustafa123456/81761
+#EXTINF:-1,|PT| RTP ACORES
+http://rv.therevenge.co:80/mustafa/mustafa123456/81760
+#EXTINF:-1,|PT| RTP AFRICA
+http://rv.therevenge.co:80/mustafa/mustafa123456/81759
+#EXTINF:-1,|PT| RTP MADEIRA
+http://rv.therevenge.co:80/mustafa/mustafa123456/81758
+#EXTINF:-1,|PT| RTP MEMORIA
+http://rv.therevenge.co:80/mustafa/mustafa123456/81757
+#EXTINF:-1,|PT| SIC
+http://rv.therevenge.co:80/mustafa/mustafa123456/81756
+#EXTINF:-1,|PT| SIC MULHER
+http://rv.therevenge.co:80/mustafa/mustafa123456/81755
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://rv.therevenge.co:80/mustafa/mustafa123456/81754
+#EXTINF:-1,|PT| SIC RADICAL
+http://rv.therevenge.co:80/mustafa/mustafa123456/81753
+#EXTINF:-1,|PT| SIC CARAS
+http://rv.therevenge.co:80/mustafa/mustafa123456/81752
+#EXTINF:-1,|PT| SIC K
+http://rv.therevenge.co:80/mustafa/mustafa123456/81751
+#EXTINF:-1,|PT| CANAL Q
+http://rv.therevenge.co:80/mustafa/mustafa123456/81750
+#EXTINF:-1,|PT| PORTO CANAL
+http://rv.therevenge.co:80/mustafa/mustafa123456/81749
+#EXTINF:-1,|PT| TVE 24H
+http://rv.therevenge.co:80/mustafa/mustafa123456/81748
+#EXTINF:-1,|PT| TVI
+http://rv.therevenge.co:80/mustafa/mustafa123456/81747
+#EXTINF:-1,|PT| TVI 24
+http://rv.therevenge.co:80/mustafa/mustafa123456/81746
+#EXTINF:-1,|PT| TVI FICCAO
+http://rv.therevenge.co:80/mustafa/mustafa123456/81745
+#EXTINF:-1,|PT| MCS EXTREME
+http://rv.therevenge.co:80/mustafa/mustafa123456/81744
+#EXTINF:-1,|PT| TVI REALITY
+http://rv.therevenge.co:80/mustafa/mustafa123456/81743
+#EXTINF:-1,|PT| TV RECORD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81742
+#EXTINF:-1,|PT| ZAP VIVA HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81741
+#EXTINF:-1,|PT| KURIAKOS TV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81740
+#EXTINF:-1,|PT| TCV CABO
+http://rv.therevenge.co:80/mustafa/mustafa123456/81739
+#EXTINF:-1,##### |PT| INFANTIL #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81738
+#EXTINF:-1,|PT| BABY TV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81737
+#EXTINF:-1,|PT| CANAL PANDA
+http://rv.therevenge.co:80/mustafa/mustafa123456/81736
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://rv.therevenge.co:80/mustafa/mustafa123456/81735
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://rv.therevenge.co:80/mustafa/mustafa123456/81734
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://rv.therevenge.co:80/mustafa/mustafa123456/81733
+#EXTINF:-1,|PT| JIM JAM
+http://rv.therevenge.co:80/mustafa/mustafa123456/81732
+#EXTINF:-1,|PT| BIGGS
+http://rv.therevenge.co:80/mustafa/mustafa123456/81731
+#EXTINF:-1,|PT| NICKELODEON
+http://rv.therevenge.co:80/mustafa/mustafa123456/81730
+#EXTINF:-1,|PT| NICK JR.
+http://rv.therevenge.co:80/mustafa/mustafa123456/81729
+#EXTINF:-1,##### |PT| ENTRETENIMENTO #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81728
+#EXTINF:-1,|PT| E! ENTERTAINMENT
+http://rv.therevenge.co:80/mustafa/mustafa123456/81727
+#EXTINF:-1,##### |PT| FILMES #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81726
 #EXTINF:-1,|PT| AMC HD
 http://rv.therevenge.co:80/mustafa/mustafa123456/81725
 #EXTINF:-1,|PT| AMC
@@ -773,3 +253,149 @@ http://rv.therevenge.co:80/mustafa/mustafa123456/81709
 http://rv.therevenge.co:80/mustafa/mustafa123456/81708
 #EXTINF:-1,|PT| NOS STUDIOS HD
 http://rv.therevenge.co:80/mustafa/mustafa123456/81707
+#EXTINF:-1,##### |PT| INTERNACIONAIS #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81706
+#EXTINF:-1,|PT| GLOBO HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81705
+#EXTINF:-1,|PT| GLOBO PREMIUM
+http://rv.therevenge.co:80/mustafa/mustafa123456/81704
+#EXTINF:-1,|PT| TV GALICIA
+http://rv.therevenge.co:80/mustafa/mustafa123456/81703
+#EXTINF:-1,|PT| CNN
+http://rv.therevenge.co:80/mustafa/mustafa123456/81702
+#EXTINF:-1,|PT| SKY NEWS
+http://rv.therevenge.co:80/mustafa/mustafa123456/81701
+#EXTINF:-1,|PT| CNBC
+http://rv.therevenge.co:80/mustafa/mustafa123456/81700
+#EXTINF:-1,|PT| EURONEWS
+http://rv.therevenge.co:80/mustafa/mustafa123456/81699
+#EXTINF:-1,|PT| TV5 MONDE
+http://rv.therevenge.co:80/mustafa/mustafa123456/81698
+#EXTINF:-1,|PT| BBC WORLD NEWS
+http://rv.therevenge.co:80/mustafa/mustafa123456/81697
+#EXTINF:-1,|PT| CBS REALITY
+http://rv.therevenge.co:80/mustafa/mustafa123456/81696
+#EXTINF:-1,|PT| BLOOMBERG
+http://rv.therevenge.co:80/mustafa/mustafa123456/81695
+#EXTINF:-1,|PT| FTV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81694
+#EXTINF:-1,|PT| CANACAO NOVA
+http://rv.therevenge.co:80/mustafa/mustafa123456/81693
+#EXTINF:-1,|PT| FOX NEWS
+http://rv.therevenge.co:80/mustafa/mustafa123456/81692
+#EXTINF:-1,##### |PT| MUSICA #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81691
+#EXTINF:-1,|PT| TRACE URBAN
+http://rv.therevenge.co:80/mustafa/mustafa123456/81690
+#EXTINF:-1,|PT| TRACE TOCA
+http://rv.therevenge.co:80/mustafa/mustafa123456/81689
+#EXTINF:-1,|PT| VH1
+http://rv.therevenge.co:80/mustafa/mustafa123456/81688
+#EXTINF:-1,|PT| VH1 CLASSIC
+http://rv.therevenge.co:80/mustafa/mustafa123456/81687
+#EXTINF:-1,|PT| AFRO MUSIC
+http://rv.therevenge.co:80/mustafa/mustafa123456/81686
+#EXTINF:-1,|PT| MTV PORTUGAL
+http://rv.therevenge.co:80/mustafa/mustafa123456/81685
+#EXTINF:-1,|PT| MCM POP
+http://rv.therevenge.co:80/mustafa/mustafa123456/81684
+#EXTINF:-1,|PT| MEZZO
+http://rv.therevenge.co:80/mustafa/mustafa123456/81683
+#EXTINF:-1,##### |PT| SERIES  #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81682
+#EXTINF:-1,|PT| HOLLYWOOD HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81681
+#EXTINF:-1,|PT| HOLLYWOOD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81680
+#EXTINF:-1,|PT| CINEMUNDO
+http://rv.therevenge.co:80/mustafa/mustafa123456/81679
+#EXTINF:-1,|PT| TV SERIES HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81678
+#EXTINF:-1,|PT| TV SERIES
+http://rv.therevenge.co:80/mustafa/mustafa123456/81677
+#EXTINF:-1,##### |PT| CULTURA #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81676
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://rv.therevenge.co:80/mustafa/mustafa123456/81675
+#EXTINF:-1,|PT| DISCOVERY HD SHOWCASE
+http://rv.therevenge.co:80/mustafa/mustafa123456/81674
+#EXTINF:-1,|PT| NAT GEO GEOGRAPHIC HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81673
+#EXTINF:-1,|PT| NAT GEO WILD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81672
+#EXTINF:-1,|PT| CRIME INVESTIGATION
+http://rv.therevenge.co:80/mustafa/mustafa123456/81671
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81670
+#EXTINF:-1,|PT| ODISSEIA
+http://rv.therevenge.co:80/mustafa/mustafa123456/81669
+#EXTINF:-1,|PT| 24 KITCHEN HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81668
+#EXTINF:-1,|PT| HISTORIA
+http://rv.therevenge.co:80/mustafa/mustafa123456/81667
+#EXTINF:-1,|PT| TLC
+http://rv.therevenge.co:80/mustafa/mustafa123456/81666
+#EXTINF:-1,##### |PT| DESPORTO #####
+http://rv.therevenge.co:80/mustafa/mustafa123456/81665
+#EXTINF:-1,|PT| BTV 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81664
+#EXTINF:-1,|PT| A BOLA TV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81663
+#EXTINF:-1,|PT| KOMBAT SPORT
+http://rv.therevenge.co:80/mustafa/mustafa123456/81662
+#EXTINF:-1,|PT| SPORTING TV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81661
+#EXTINF:-1,|PT| FUEL TV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81660
+#EXTINF:-1,|PT| EUROSPORT 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81659
+#EXTINF:-1,|PT| EUROSPORT 1
+http://rv.therevenge.co:80/mustafa/mustafa123456/81658
+#EXTINF:-1,|PT| EUROSPORT 2
+http://rv.therevenge.co:80/mustafa/mustafa123456/81657
+#EXTINF:-1,|PT| PFC
+http://rv.therevenge.co:80/mustafa/mustafa123456/81656
+#EXTINF:-1,|PT| CMTV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81655
+#EXTINF:-1,|PT| TOROS TV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81654
+#EXTINF:-1,|PT| SPORT TV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81653
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81652
+#EXTINF:-1,|PT| SPORT TV 1 HD NOS
+http://rv.therevenge.co:80/mustafa/mustafa123456/81651
+#EXTINF:-1,|PT| SPORT TV 1
+http://rv.therevenge.co:80/mustafa/mustafa123456/81650
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81649
+#EXTINF:-1,|PT| SPORT TV 2
+http://rv.therevenge.co:80/mustafa/mustafa123456/81648
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81647
+#EXTINF:-1,|PT| SPORT TV 3
+http://rv.therevenge.co:80/mustafa/mustafa123456/81646
+#EXTINF:-1,|PT| SPORT TV 4
+http://rv.therevenge.co:80/mustafa/mustafa123456/81645
+#EXTINF:-1,|PT| SPORT TV 5
+http://rv.therevenge.co:80/mustafa/mustafa123456/81644
+#EXTINF:-1,|PT| NBA TV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81643
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81642
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81641
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81640
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81639
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81638
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://rv.therevenge.co:80/mustafa/mustafa123456/81637
+#EXTINF:-1,|PT| MOTORVISION
+http://rv.therevenge.co:80/mustafa/mustafa123456/81636
+#EXTINF:-1,|PT| REAL MADRID TV
+http://rv.therevenge.co:80/mustafa/mustafa123456/81635
+#EXTINF:-1,|PT| CANAL 11
+http://rv.therevenge.co:80/mustafa/mustafa123456/81634
